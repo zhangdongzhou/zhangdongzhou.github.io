@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="120px" height="110px" viewBox="0.623 0.441 120 110" enable-background="new 0.623 0.441 120 110"
+	 xml:space="preserve">
+<defs>
+</defs>
+<rect x="52.288" y="42.896" fill="#00ACE9" width="17.283" height="24.962"/>
+<polyline fill="none" stroke="#231F20" points="12.763,0.338 0.5,27.855 0.5,82.895 12.763,110.416 "/>
+<line fill="#FFFFFF" stroke="#231F20" x1="52.288" y1="43.456" x2="12.763" y2="0.338"/>
+<line fill="#FFFFFF" stroke="#231F20" x1="52.288" y1="67.859" x2="52.288" y2="42.896"/>
+<line fill="#FFFFFF" stroke="#231F20" x1="12.766" y1="110.416" x2="52.288" y2="67.859"/>
+<line fill="none" stroke="#231F20" x1="12.766" y1="110.416" x2="12.766" y2="0.338"/>
+<line fill="none" stroke="#231F20" x1="0.5" y1="82.456" x2="12.585" y2="77.052"/>
+<line fill="none" stroke="#231F20" x1="0.5" y1="27.855" x2="12.94" y2="36.307"/>
+<line fill="none" stroke="#231F20" x1="52.288" y1="67.859" x2="12.585" y2="76.612"/>
+<line fill="none" stroke="#231F20" x1="51.71" y1="44.107" x2="12.763" y2="36.307"/>
+<polyline fill="none" stroke="#231F20" points="108.518,0.338 120.782,27.855 120.782,82.895 108.518,110.416 "/>
+<line fill="#FFFFFF" stroke="#231F20" x1="68.993" y1="43.456" x2="108.518" y2="0.338"/>
+<line fill="#FFFFFF" stroke="#231F20" x1="68.993" y1="67.859" x2="68.993" y2="42.896"/>
+<line fill="#FFFFFF" stroke="#231F20" x1="108.515" y1="110.416" x2="68.993" y2="67.859"/>
+<line fill="none" stroke="#231F20" x1="108.515" y1="110.416" x2="108.515" y2="0.338"/>
+<line fill="none" stroke="#231F20" x1="120.782" y1="82.456" x2="108.696" y2="77.052"/>
+<line fill="none" stroke="#231F20" x1="120.782" y1="27.855" x2="108.34" y2="36.307"/>
+<line fill="none" stroke="#231F20" x1="68.993" y1="67.859" x2="108.696" y2="76.612"/>
+<line fill="none" stroke="#231F20" x1="69.571" y1="44.107" x2="108.518" y2="36.307"/>
+<circle fill="#EC1C24" cx="59.571" cy="45.525" r="1.417"/>
+<path fill="#B7B9BB" stroke="#231F20" d="M69.557,67.887v0.841H52.275v-0.274v-0.473l-0.026,0.006v0.495l-4.977,5.357
+	c1.428,2.24,3.109,4.124,4.977,5.554v23.382h17.334V79.173c1.896-1.515,3.59-3.506,5.014-5.859l-5.014-5.399v-0.044l-0.025-0.006
+	V67.887z"/>
+<path fill="#B7B9BB" stroke="#231F20" d="M52.249,30.919c-2.02,1.545-3.82,3.62-5.319,6.104l5.319,5.803l0.578,0.631v0.31h16.704
+	v-0.31l0.052-0.057l5.348-5.834c-1.489-2.603-3.301-4.792-5.348-6.427V7.979H52.249V30.919z"/>
+<rect x="57.544" y="49.265" fill="#231F20" width="6.896" height="16.858"/>
+</svg>
