@@ -14,7 +14,7 @@ filenameL = ['allpub','condensedmatter', 'spectroscopy', 'uppermantle', 'lowerma
 headerL = ['All publications', 'Condensed matter physics and material science research', 'Optical and X-ray spectroscopy development', 'Earth science: crust, upper mantle and transition zone', 'Earth science: lower mantle ', 'Earth science: the core ']
 
 # color list
-colorL = ['#888', '#444', '#0bb', '#080', '#f80', '#f00']
+colorL = ['#888', '#444', '#0ad', '#080', '#f80', '#f00']
 colordim = '#bbb'
 
 # Empty template, split mark  = ######
