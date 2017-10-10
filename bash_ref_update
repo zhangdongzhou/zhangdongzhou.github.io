@@ -2,7 +2,9 @@
 
 git init
 
-python ./python_ref_update/reference_list.py
+cd python_ref_update
+python reference_list.py
+cd ..
 
 git add --all
 git commit -m "Publication Update"
