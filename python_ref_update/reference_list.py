@@ -27,7 +27,7 @@ f1.close()
 ###################
 Num= 0
 ### cycle start
-filename = filenameL[Num]+'.html'
+filename = '../texts/'+filenameL[Num]+'.html'
 header = headerL[Num]
 color = colorL[Num]
 
@@ -51,7 +51,7 @@ f3.close()
 
 for i2 in range(1,6):
     Num = i2
-    filename = filenameL[Num]+'.html'
+    filename = '../texts/'+filenameL[Num]+'.html'
     header = headerL[Num]
     color = colorL[Num]
     
