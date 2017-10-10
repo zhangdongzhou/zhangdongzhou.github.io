@@ -1,4 +1,4 @@
-4<li><strong>Zhang, D.</strong> (2017), Making a fine-scale ruler for oxide inclusions, American Mineralogist, 102(10), 1969-1970.</li>
+3<li><strong>Zhang, D.</strong> (2017), Making a fine-scale ruler for oxide inclusions, American Mineralogist, 102(10), 1969-1970.</li>
 
 4<li>Finkelstein, G.J., Jackson, J.M., Sturhahn, W., <strong>Zhang, D.</strong>, Alp, E.E., and Toellner, T.S. (2017), Single-Crystal 
 		Equations of State of Magnesiowustite at High Pressures, American Mineralogist, 102(8), 1709-1717.</li>
