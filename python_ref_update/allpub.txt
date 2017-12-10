@@ -1,3 +1,6 @@
+1<li>Huang, E.-W., Lin, C.-M., Jain, J., Shieh, S.R., Wang, C.-P., Chuang, Y.-C., Liao, Y.-F., <strong>Zhang, D.</strong>, Huang, T., Lam, T.-N., Woo, W. and Lee, S.Y. (2018), 
+		Irreversible Phase Transformation in a CoCrFeMnNi High Entropy Alloy under Hydrostatic Compression, Materials Today Communications, in press.</li>
+
 3<li>Hu, Y., Kiefer, B., Bina, C.R., <strong>Zhang, D.</strong> and Dera, P.K. (2017), High-pressure γ-CaMgSi<sub>2</sub>O<sub>6</sub>: 
 		Does penta-coordinated silicon exist in the Earth's mantle?, Geophysical Research Letters, in press.</li>
 
