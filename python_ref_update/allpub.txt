@@ -1,5 +1,5 @@
 3<li>Tschauner, O., Huang, S., Greenberg, E., Prakapenka, V.B., Ma, C., Rossman, G.R., Shen, A.H., <strong>Zhang, D.</strong>, Newville, M., Lanzirotti, A., and Tait, K. (2018), 
-		Ice-VII inclusions in diamonds: Evidence for aqueous fluid in Earth’s deep mantle, Science, 359, 1136-1139.</li>
+		Ice-VII inclusions in diamonds: Evidence for aqueous fluid in Earth's deep mantle, Science, 359, 1136-1139.</li>
 
 5<li>Thompson, E.C., Davis, A.H., Bi, W., Zhao, J., Alp, E.E., <strong>Zhang, D.</strong>, Greenberg, E., Prakapenka, V.B., and Campbell, A.J. (2018), High-Pressure Geophysical 
 		Properties of Fcc Phase FeH<sub>X</sub>, Geochemistry, Geophysics,Geosystems, 19, 305-314.</li>
