@@ -24,6 +24,13 @@ txt1 = f1.read()
 L1 = re.split('######', txt1)
 f1.close()
 
+### split pdf list
+f1 = open('pdf.txt')
+txt1 = f1.read()
+txt1 = txt1[0:-1]
+L3 = re.split('\n', txt1)
+f1.close()
+
 ###################
 Num= 0
 ### cycle start
@@ -33,6 +40,7 @@ color = colorL[Num]
 
 f2 = open('allpub.txt')
 txt2 = f2.read()
+txt2 = txt2[0:-1]
 f2.close()
 L2=re.split('</li>', txt2)
 
@@ -40,7 +48,11 @@ txt5 = L1[0]+color+L1[1]+header+L1[2]
 for i1 in range(len(L2)):
     txt3 = L2[i1]
     txt4 = re.split('<li>',txt3)[1]
-    txt5 = txt5+'<li style=\"color:'+color+'\">'+txt4+'</li>\n'
+    txt4split = re.search('\(2\d\d\d\)\, ',txt4)
+    txt4_1 = txt4[0:txt4split.span()[1]]
+    txt4_2 = txt4[txt4split.span()[1]:]
+    txt4_f = txt4_1+'<a href="https://zhangdongzhou.github.io/pub/'+L3[i1]+'" style="color:'+color+'">'+txt4_2+'</a>'
+    txt5 = txt5+'<li style=\"color:'+color+'\">'+txt4_f+'</li>\n'
 
 txt5=txt5+L1[3]
 
@@ -57,6 +69,7 @@ for i2 in range(1,6):
     
     f2 = open('allpub.txt')
     txt2 = f2.read()
+    txt2 = txt2[0:-1]
     f2.close()
     L2=re.split('</li>', txt2)
     
@@ -64,13 +77,17 @@ for i2 in range(1,6):
     for i1 in range(len(L2)):
         txt3 = L2[i1]
         txt4 = re.split('<li>',txt3)[1]
+        txt4split = re.search('\(2\d\d\d\)\, ',txt4)
+        txt4_1 = txt4[0:txt4split.span()[1]]
+        txt4_2 = txt4[txt4split.span()[1]:]
         #color determine
         i3 = int(re.split('<li>',txt3)[0])
         if i3==i2:
             color = colorL[Num]
         else:
             color = colordim
-        txt5 = txt5+'<li style=\"color:'+color+'\">'+txt4+'</li>\n'
+        txt4_f = txt4_1+'<a href="https://zhangdongzhou.github.io/pub/'+L3[i1]+'" style="color:'+color+'">'+txt4_2+'</a>'
+        txt5 = txt5+'<li style=\"color:'+color+'\">'+txt4_f+'</li>\n'
     
     txt5=txt5+L1[3]
     
