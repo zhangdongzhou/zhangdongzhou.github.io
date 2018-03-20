@@ -5,7 +5,7 @@
 		Properties of <i>fcc</i> Phase FeH<sub>X</sub>, Geochemistry, Geophysics,Geosystems, 19, 305-314.</li>
 
 1<li>Ma, L., <strong>Zhang, D.</strong>, Lei, Y., Yuan, Y., Wu, T., Lu, J. and Amine, K. (2018), High-capacity Sodium Peroxide Based Na-O<sub>2</sub> Batteries with Low Charge 
-		Overpotential via a Nanostructured Catalytic Cathode, ACS Energy Letters, 3, 276-277.</li>
+		Overpotential via a Nanostructured Catalytic Cathode, ACS Energy Letters, 3(2), 276-277.</li>
 
 1<li>Huang, E.-W., Lin, C.-M., Jain, J., Shieh, S.R., Wang, C.-P., Chuang, Y.-C., Liao, Y.-F., <strong>Zhang, D.</strong>, Huang, T., Lam, T.-N., Woo, W. and Lee, S.Y. (2018), 
 		Irreversible Phase Transformation in a CoCrFeMnNi High Entropy Alloy under Hydrostatic Compression, Materials Today Communications, 14, 10-14.</li>
