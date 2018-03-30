@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git config --global user.email tochozhang@gmail.com
+git config credential.https://github.com zhangdongzhou
 git init
 
 cd python_ref_update
