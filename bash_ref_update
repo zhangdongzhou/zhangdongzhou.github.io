@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git config credential "https://github.com" username = zhangdongzhou
+git config --global credential.helper store
 git init
 
 cd python_ref_update
