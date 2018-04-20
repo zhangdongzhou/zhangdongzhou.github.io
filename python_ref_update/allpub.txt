@@ -1,4 +1,7 @@
-﻿1<li>Li, X., Yuan, Y., Zhang, J., Kim, T., <strong>Zhang, D.</strong>, Yang, K., Lee, Y., and Wang, L. (2018), Pressure-induced photoluminescence
+﻿3<li>Xu, J., <strong>Zhang, D.</strong>, Fan, D., Zhang, J.S., Hu, Y., Guo, X., Dera, P.K., and Zhou, W. (2018) Phase Transitions in Orthoenstatite and Subduction Zone Dynamics: Effects of 
+		Water and Transition Metal Ions, Journal of Geophysical Research-Solid Earth, 123, B015169.</li>
+
+1<li>Li, X., Yuan, Y., Zhang, J., Kim, T., <strong>Zhang, D.</strong>, Yang, K., Lee, Y., and Wang, L. (2018), Pressure-induced photoluminescence
 		of MgO, Journal of Physics: Condensed Matter, 30, 194002.</li>
 
 4<li>Liu, J., Dorfman, S.M., Zhu, F., Li, J., Wang, Y., <strong>Zhang, D.</strong>, Xiao, Y., Bi, W., and Alp, E.E. (2018), Valence and spin states of iron are invisible in
