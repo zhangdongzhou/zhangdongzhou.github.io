@@ -1,3 +1,6 @@
+﻿1<li>Li, X., Yuan, Y., Zhang, J., Kim, T., <strong>Zhang, D.</strong>, Yang, K., Lee, Y., and Wang, L. (2018), Pressure-induced photoluminescence
+		of MgO, Journal of Physics: Condensed Matter, 30, 194002.</li>
+
 4<li>Liu, J., Dorfman, S.M., Zhu, F., Li, J., Wang, Y., <strong>Zhang, D.</strong>, Xiao, Y., Bi, W., and Alp, E.E. (2018), Valence and spin states of iron are invisible in
 		Earth’s lower mantle, Nature Communications, 9, 1284.</li>
 
