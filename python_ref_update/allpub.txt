@@ -1,3 +1,6 @@
+﻿1<li>Efthimiopoulos, I., Khatri, I., Liu, Z.T.Y., Khare, S.V., Sarin, P., Tsurkan, V., Loidl, Al., <strong>Zhang, D.</strong>, and Wang, Y. (2018), Universal link 
+		of magnetic exchange and structural behavior under pressure in chromium spinels, Physical Review B, 97, 184435.</li>
+
 3<li>Xu, J., <strong>Zhang, D.</strong>, Fan, D., Zhang, J.S., Hu, Y., Guo, X., Dera, P.K., and Zhou, W. (2018), Phase Transitions in Orthoenstatite and Subduction Zone Dynamics: Effects of 
 		Water and Transition Metal Ions, Journal of Geophysical Research-Solid Earth, 123, 2723-2737.</li>
 
