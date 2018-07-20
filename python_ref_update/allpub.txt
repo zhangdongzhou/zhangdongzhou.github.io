@@ -1,3 +1,7 @@
+1<li>Zhang, Q., Chen, C., Li, N., Huang, Q., He, Y., Liu, X., Wang, B., <strong>Zhang, D.</strong>, Kim, D.Y., Wang, Y., Xu, B.,
+	and Yang, W. (2018), Pressure Impact on the Crystal Structure, Optical, and Transport Properties in Layered Oxychalcogenides 
+	BiCu<i>Ch</i>O (<i>Ch</i> = S, Se), The Journal of Physical Chemistry C, 122(28), 15929-15936.</li>
+
 5<li>Morrison, R.A., Jackson, J.M., Sturhahn, W., <strong>Zhang, D.</strong>, and Greenberg, E. (2018), Equations of state and anisotropy of Fe-Ni-Si alloys. 
 		Journal of Geophysical Research-Solid Earth, 123(6), 4647-4675.</li>
 
