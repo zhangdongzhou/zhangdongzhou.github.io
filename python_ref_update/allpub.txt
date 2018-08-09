@@ -24,7 +24,7 @@
 		of MgO, Journal of Physics: Condensed Matter, 30, 194002.</li>
 
 4<li>Liu, J., Dorfman, S.M., Zhu, F., Li, J., Wang, Y., <strong>Zhang, D.</strong>, Xiao, Y., Bi, W., and Alp, E.E. (2018), Valence and spin states of iron are invisible in
-		Earthâ€™s lower mantle, Nature Communications, 9, 1284.</li>
+		Earth's lower mantle, Nature Communications, 9, 1284.</li>
 
 3<li>Tschauner, O., Huang, S., Greenberg, E., Prakapenka, V.B., Ma, C., Rossman, G.R., Shen, A.H., <strong>Zhang, D.</strong>, Newville, M., Lanzirotti, A., and Tait, K. (2018), 
 		Ice-VII inclusions in diamonds: Evidence for aqueous fluid in Earth's deep mantle, Science, 359, 1136-1139.</li>
