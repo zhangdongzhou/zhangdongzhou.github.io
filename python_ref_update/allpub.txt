@@ -1,3 +1,12 @@
+1<li>Jackson, D.E., VanGennep, D., Bi, W., <strong>Zhang, D.</strong>, Materne, P., Liu, Y., Cao, G.-H.,
+	Weir, S.T., Vohra, Y.K., and Hamlin, J.J. (2018), Superconducting and magnetic phase diagram of 
+	RbEuFe<sub>4</sub>As<sub>4</sub> and CsEuFe<sub>4</sub>As<sub>4</sub> at high pressure, Physical Review B, 98, 014518.</li>
+
+1<li>Materne, P., Bi, W., Alp, E.E., Zhao, J., Hu, M.Y., Jesche, A., Geibel, C., Kappenberger, R., Aswartham, S., Wurmehl, S., Buchner, B.,
+	<strong>Zhang, D.</strong>, Goltz, T., Spehling, J., and Klauss, H.-H. (2018), Suppression of the magnetic order in CeFeAsO: 
+	Nonequivalence of hydrostatic and in-plane chemical pressure, Physical Review B, 98, 014517.</li>
+
+
 1<li>Zhang, Q., Chen, C., Li, N., Huang, Q., He, Y., Liu, X., Wang, B., <strong>Zhang, D.</strong>, Kim, D.Y., Wang, Y., Xu, B.,
 	and Yang, W. (2018), Pressure Impact on the Crystal Structure, Optical, and Transport Properties in Layered Oxychalcogenides 
 	BiCu<i>Ch</i>O (<i>Ch</i> = S, Se), The Journal of Physical Chemistry C, 122(28), 15929-15936.</li>
