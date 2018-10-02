@@ -1,3 +1,7 @@
+5<li>Lai, X., Zhu, F., Liu, J., <strong>Zhang, D.</strong>, Hu, Y., Finkelstein, G.J., Dera, P. and Chen, B. (2018), 
+	The high-pressure anisotropic thermoelastic properties of a potential inner core carbon-bearing phase, 
+		Fe<sub>7</sub>C<sub>3</sub>, by single-crystal X-ray diffraction. American Mineralogist, 103(10), 1568-1574.</li>
+
 1<li>Jackson, D.E., VanGennep, D., Bi, W., <strong>Zhang, D.</strong>, Materne, P., Liu, Y., Cao, G.-H.,
 	Weir, S.T., Vohra, Y.K., and Hamlin, J.J. (2018), Superconducting and magnetic phase diagram of 
 	RbEuFe<sub>4</sub>As<sub>4</sub> and CsEuFe<sub>4</sub>As<sub>4</sub> at high pressure, Physical Review B, 98, 014518.</li>
