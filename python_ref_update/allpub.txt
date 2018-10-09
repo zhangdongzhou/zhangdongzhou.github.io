@@ -1,3 +1,6 @@
+1<li>Gong, J., Wei, P., Su, Y., Li, Y., Feng, X., Lam, J.W., <strong>Zhang, D.</strong>, Song, X. and Tang, B.Z., 2018. Red-emitting salicylaldehyde Schiff 
+	base with AIE behaviour and large Stokes shift. Chinese Chemical Letters, 29, 1493-1496.</li>
+
 5<li>Lai, X., Zhu, F., Liu, J., <strong>Zhang, D.</strong>, Hu, Y., Finkelstein, G.J., Dera, P. and Chen, B. (2018), 
 	The high-pressure anisotropic thermoelastic properties of a potential inner core carbon-bearing phase, 
 		Fe<sub>7</sub>C<sub>3</sub>, by single-crystal X-ray diffraction. American Mineralogist, 103(10), 1568-1574.</li>
