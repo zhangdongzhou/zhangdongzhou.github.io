@@ -1,3 +1,7 @@
+1<li>Tang, H., Wan, B., Gao, B., Muraba, Y., Qin, Q., Yan, B., Chen, P., Hu, Q., <strong>Zhang, D.</strong>, Wu, L. and 
+	Wang, M. (2018), Metal-to-Semiconductor Transition and Electronic Dimensionality Reduction 
+	of Ca<sub>2</sub>N Electride under Pressure. Advanced Science, 5(11), 1800666.</li>
+
 1<li>Gong, J., Wei, P., Su, Y., Li, Y., Feng, X., Lam, J.W., <strong>Zhang, D.</strong>, Song, X. and Tang, B.Z. (2018), Red-emitting salicylaldehyde Schiff 
 	base with AIE behaviour and large Stokes shift. Chinese Chemical Letters, 29, 1493-1496.</li>
 
