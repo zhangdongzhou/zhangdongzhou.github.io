@@ -1,3 +1,8 @@
+1<li>Zhang, J., Zhang, Y., Wu, X., Ma, Y., Chien, S.Y., Guan, R., <strong>Zhang, D.</strong>, Yang, B., 
+	Yan, B. and Yang, J. (2018), Correlation between structural changes and electrical transport 
+	properties of spinel ZnFe<sub>2</sub>O<sub>4</sub> nanoparticles under high pressure. ACS applied 
+	materials & interfaces, 10, 42856-42864.</li>
+
 1<li>Tang, H., Wan, B., Gao, B., Muraba, Y., Qin, Q., Yan, B., Chen, P., Hu, Q., <strong>Zhang, D.</strong>, Wu, L. and 
 	Wang, M. (2018), Metal-to-Semiconductor Transition and Electronic Dimensionality Reduction 
 	of Ca<sub>2</sub>N Electride under Pressure. Advanced Science, 5(11), 1800666.</li>
