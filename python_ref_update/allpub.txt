@@ -1,3 +1,6 @@
+﻿1<li>Liu, L., Huang, S., Vitos, L., Dong, M., Bykova, E., <strong>Zhang, D.</strong>, Almqvist, B.S.G., Ivanov, S., Rubensson, J.-E., Varga, B.,
+	Varga, L.K., and Lazor, P. (2019), Pressure-induced magnetovolume effect in CoCrFeAl high-entropy alloy. Communications Physics, 2, 42.</li>
+
 1<li>Gui, X., Finkelstein, G.J., Graf, D.E., Wei, K., <strong>Zhang, D.</strong>, Baumbach, R.E., Dera, P. and Xie, W. (2019), 
 	Enhanced Néel temperature in EuSnP under pressure. Dalton Transactions, 48, 5327-5334.</li>
 
