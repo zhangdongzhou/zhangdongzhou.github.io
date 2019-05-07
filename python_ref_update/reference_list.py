@@ -6,7 +6,7 @@ Created on Tue Sep 12 20:17:04 2017
 """
 
 import re
-import time
+#import time
 
 # html name list
 filenameL = ['allpub','condensedmatter', 'spectroscopy', 'uppermantle', 'lowermantle', 'core']
@@ -97,7 +97,7 @@ for i2 in range(1,6):
     f3.close()
 
 
-time.sleep(5)
+#time.sleep(5)
 
 
 
