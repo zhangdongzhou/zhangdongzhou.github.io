@@ -58,7 +58,6 @@
 	<strong>Zhang, D.</strong>, Goltz, T., Spehling, J., and Klauss, H.-H. (2018), Suppression of the magnetic order in CeFeAsO: 
 	Nonequivalence of hydrostatic and in-plane chemical pressure, Physical Review B, 98, 014517.</li>
 
-
 1<li>Zhang, Q., Chen, C., Li, N., Huang, Q., He, Y., Liu, X., Wang, B., <strong>Zhang, D.</strong>, Kim, D.Y., Wang, Y., Xu, B.,
 	and Yang, W. (2018), Pressure Impact on the Crystal Structure, Optical, and Transport Properties in Layered Oxychalcogenides 
 	BiCu<i>Ch</i>O (<i>Ch</i> = S, Se), The Journal of Physical Chemistry C, 122(28), 15929-15936.</li>
