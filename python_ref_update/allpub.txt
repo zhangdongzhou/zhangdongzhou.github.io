@@ -1,8 +1,11 @@
+3<li>Berryman, E.J., <strong>Zhang, D.</strong>, Wunder, B., and Duffy, T.S. (2019), Compressibility of synthetic Mg-Al tourmalines to 60 GPa.
+	American Mineralogist, 104(7), 1005-1015.</li>
+
 1<li>Zhang, J. Ji, S., Ma, Y., Guan, R. Wu, X., Qu, X., Yan, B., <strong>Zhang, D.</strong>, Zhao, J., and Yang, J. (2019), 
 	Tunable photoluminescence and an enhanced photoelectric response of Mn<sup>2+</sup>-doped CsPbCl<sub>3</sub> perovskite nanocrystals <i>via</i> 
 	pressure-induced structure evolution. Nanoscale, 11, 11660-11670.</li>
 
-	3<li>Qin, F., Wu, X., Qin, S., <strong>Zhang, D.</strong>, Prakapenka, V.B., and Jacobsen, S.D. (2019), Pressure-induced dehydration of dioptase: 
+3<li>Qin, F., Wu, X., Qin, S., <strong>Zhang, D.</strong>, Prakapenka, V.B., and Jacobsen, S.D. (2019), Pressure-induced dehydration of dioptase: 
 	A single-crystal X-ray diffraction and Raman spectroscopy study. Comptes Rendus Geoscience, 351, 121-128.</li>
 
 4<li>Zhu, S.-C., Liu, J.,Hu, Q., Mao, W.L., Meng, Y., <strong>Zhang, D.</strong>, Mao, H.-K., and Zhu, Q. (2019), Structure-Controlled Oxygen Concentration in 
