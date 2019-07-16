@@ -1,3 +1,7 @@
+﻿1<li>Zhou, C., Lin, H., Neu, J., Zhou, Y., Chaaban, M., Lee, S., Worku, M., Chen, B., Clark, R., Cheng, W., Guan, J., Djurovich, P., <strong>Zhang, D.</strong>, Lu, X., 
+	Bullock, J., Pak, C., Shatruk, M., Du, M.-H., Siegrist, T., and Ma, B. (2019), Green Emitting Single-Crystalline Bulk Assembly of Metal Halide Clusters with 
+	Near-Unity Photoluminescence Quantum Efficiency. ACS Energy Letters, 4, 1579-1583.</li>
+
 3<li>Berryman, E.J., <strong>Zhang, D.</strong>, Wunder, B., and Duffy, T.S. (2019), Compressibility of synthetic Mg-Al tourmalines to 60 GPa.
 	American Mineralogist, 104(7), 1005-1015.</li>
 
