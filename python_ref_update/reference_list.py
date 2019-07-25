@@ -6,6 +6,7 @@ Created on Tue Sep 12 20:17:04 2017
 """
 
 import re
+import os
 #import time
 
 # html name list
@@ -44,6 +45,7 @@ txt2 = f2.read()
 txt2 = txt2[0:-1]
 f2.close()
 L2=re.split('</li>', txt2)
+Numpub = len(L2)
 
 txt5 = L1[0]+color+L1[1]+header+L1[2]
 for i1 in range(len(L2)):
@@ -97,8 +99,31 @@ for i2 in range(1,6):
     f3.close()
 
 
-#time.sleep(5)
+#update index.html
 
+filename = '../index.html'
+f4 = open(filename,'r')
+txt6 = f4.read()
+f4.close()
+PS1t = '<div class=\"col-md-10\">'
+PS1 = re.compile(PS1t)
+L4 = PS1.split(txt6)
+txt7 = L4[0]+PS1t
+PS2t = 'height = \"'
+PS2 = re.compile(PS2t)
+L5 = PS2.split(L4[1])
+txt7 = txt7+L5[0]+PS2t
+PS3t = 'px\"'
+PS3 = re.compile(PS3t)
+L6 = PS3.split(L5[1])
+newNum = str(int(71*Numpub+100))
+txt7 = txt7+newNum+PS3t+L6[1]
+
+os.remove(filename)
+
+f5 = open(filename,'w')
+f5.write(txt7)
+f5.close()
 
 
 
