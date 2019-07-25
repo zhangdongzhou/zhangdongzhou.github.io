@@ -7,7 +7,7 @@ Created on Tue Sep 12 20:17:04 2017
 
 import re
 import os
-#import time
+import time
 
 # html name list
 filenameL = ['allpub','condensedmatter', 'spectroscopy', 'uppermantle', 'lowermantle', 'core']
@@ -125,6 +125,7 @@ f5 = open(filename,'w')
 f5.write(txt7)
 f5.close()
 
+time.sleep(1)
 
 
 
