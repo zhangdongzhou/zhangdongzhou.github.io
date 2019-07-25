@@ -1,3 +1,7 @@
+2<li>Wenz, M.D., Jacobsen, S.D., <strong>Zhang, D.</strong>, Regier, M., Bausch, H.J., Dera, P.K., Rivers, M., Eng, P., Shirey, S.B. 
+	and Pearson, D.G. (2019), Fast identification of mineral inclusions in diamond at GSECARS using synchrotron X-ray 
+	microtomography, radiography and diffraction. Journal of Synchrotron Radiation, 26(5).</li>
+
 4<li>Zhuang, Y., Cui, Z., <strong>Zhang, D.</strong>, Liu, J., Tao, R., and Hu, Q. (2019), Experimental Evidence for Partially Dehydrogenated epsilon-FeOOH
 	Crystals, 9, 356.</li>
 
