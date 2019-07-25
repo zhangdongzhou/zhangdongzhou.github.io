@@ -1,3 +1,6 @@
+4<li>Zhuang, Y., Cui, Z., <strong>Zhang, D.</strong>, Liu, J., Tao, R., and Hu, Q. (2019), Experimental Evidence for Partially Dehydrogenated epsilon-FeOOH
+	Crystals, 9, 356.</li>
+
 1<li>Zhou, C., Lin, H., Neu, J., Zhou, Y., Chaaban, M., Lee, S., Worku, M., Chen, B., Clark, R., Cheng, W., Guan, J., Djurovich, P., <strong>Zhang, D.</strong>, Lu, X., 
 	Bullock, J., Pak, C., Shatruk, M., Du, M.-H., Siegrist, T., and Ma, B. (2019), Green Emitting Single-Crystalline Bulk Assembly of Metal Halide Clusters with 
 	Near-Unity Photoluminescence Quantum Efficiency. ACS Energy Letters, 4, 1579-1583.</li>
@@ -14,6 +17,9 @@
 
 4<li>Zhu, S.-C., Liu, J.,Hu, Q., Mao, W.L., Meng, Y., <strong>Zhang, D.</strong>, Mao, H.-K., and Zhu, Q. (2019), Structure-Controlled Oxygen Concentration in 
 	Fe<sub>2</sub>O<sub>3</sub> and FeO<sub>2</sub>. Inorganic Chemistry, 58, 5476-5482.</li>
+
+3<li>Liu, W., Chen, J., Zhang, X., Yan, J., Hou, M., Kunz, M., <strong>Zhang, D.</strong>, and Zhang, H. (2019), Pressure-Induced Phase Transitions of Natural Brookite. 
+	ACS Earth and Space Chemistry, 3, 844-853.</li>
 
 1<li>Liu, L., Huang, S., Vitos, L., Dong, M., Bykova, E., <strong>Zhang, D.</strong>, Almqvist, B.S.G., Ivanov, S., Rubensson, J.-E., Varga, B.,
 	Varga, L.K., and Lazor, P. (2019), Pressure-induced magnetovolume effect in CoCrFeAl high-entropy alloy. Communications Physics, 2, 42.</li>
