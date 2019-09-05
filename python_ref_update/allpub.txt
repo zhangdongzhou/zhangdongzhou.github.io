@@ -1,6 +1,14 @@
+3<li>Anzolini, C., Wang, F., Harris, G.A., Locock, A.J., <strong>Zhang, D.</strong>, Nestola, F., Peruzzo, L., Jacobsen, S.D. and Pearson, 
+	D.G. (2019), Nixonite, Na<sub>2</sub>Ti<sub>6</sub>O<sub>13</sub>, a new mineral from a metasomatized mantle garnet 
+	pyroxenite from the western Rae Craton, Darby kimberlite field, Canada. American Mineralogist, 104(9), 1336-1344.</li>
+
+3<li>Jin, S., Xu, H., Wang, X., <strong>Zhang, D.</strong>, Jacobs, R. and Morgan, D. (2019), The incommensurately modulated structures 
+	of volcanic plagioclase: displacement, ordering and phase transition. Acta Crystallographica Section B: Structural Science, 
+		Crystal Engineering and Materials, 75(4), 643-656.</li>	
+
 2<li>Wenz, M.D., Jacobsen, S.D., <strong>Zhang, D.</strong>, Regier, M., Bausch, H.J., Dera, P.K., Rivers, M., Eng, P., Shirey, S.B. 
 	and Pearson, D.G. (2019), Fast identification of mineral inclusions in diamond at GSECARS using synchrotron X-ray 
-	microtomography, radiography and diffraction. Journal of Synchrotron Radiation, 26(5).</li>
+	microtomography, radiography and diffraction. Journal of Synchrotron Radiation, 26(5), 1763-1768.</li>
 
 4<li>Zhuang, Y., Cui, Z., <strong>Zhang, D.</strong>, Liu, J., Tao, R., and Hu, Q. (2019), Experimental Evidence for Partially Dehydrogenated epsilon-FeOOH
 	Crystals, 9, 356.</li>
