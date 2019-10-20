@@ -1,3 +1,20 @@
+3<li>Kuang, Y., Xu, J., Li, B., Ye, Z., Huang, S., Chen, W., <strong>Zhang, D.</strong>, Zhou, W., and Ma, M. (2019), Crystal-Chemical Properties 
+	of Synthetic Almandine-Pyrope Solid Solution by X-Ray Single-Crystal Diffraction and Raman Spectroscopy. Crystals, 9(10), 541.</li>
+
+1<li>Cai, W., Lin, W., Li, L.H., Malliakas, C.D., Zhang, R., Groesbeck, M., Bao, J.K., <strong>Zhang, D.</strong>, 
+	Sterer, E., Kanatzidis, M.G., and Deemyad, S. (2019), Pressure-induced Superconductivity and Flattened 
+	Se<sub>6</sub> Rings in the Wide Bandgap Semiconductor Cu<sub>2</sub>I<sub>2</sub>Se<sub>6</sub>. Journal of the American Chemical Society, 141(38), 15174-15182.</li>
+
+3<li>Yong, T., Bina, C.R., Finkelstein, G.J., <strong>Zhang, D.</strong>, and Dera, P. (2019), 
+	A New High-Pressure Phase Transition in Natural Gedrite. Crystals, 9(10), 521.</li>
+
+1<li>Huang, D., Niu, C., Yan, B., Gao, B., Wu, L., <strong>Zhang, D.</strong>, Wang, X., and Gou, H. (2019), 
+	Synthesis of Manganese Mononitride with Tetragonal Structure under Pressure. Crystals, 9(10), 511.</li>
+
+1<li>Wen, T., Zhang, Q., Li, N., Wang, Y., <strong>Zhang, D.</strong>, Wang, L., and Yang, W. (2019), 
+	Structural Phase Transition, Optical and Electrical Property Evolutions of Thiospinel AgIn<sub>5</sub>S<sub>8</sub> 
+	under High Pressure. Inorganic chemistry, 58(19), 12628-12634.</li>
+
 3<li>Anzolini, C., Wang, F., Harris, G.A., Locock, A.J., <strong>Zhang, D.</strong>, Nestola, F., Peruzzo, L., Jacobsen, S.D. and Pearson, 
 	D.G. (2019), Nixonite, Na<sub>2</sub>Ti<sub>6</sub>O<sub>13</sub>, a new mineral from a metasomatized mantle garnet 
 	pyroxenite from the western Rae Craton, Darby kimberlite field, Canada. American Mineralogist, 104(9), 1336-1344.</li>
