@@ -116,7 +116,7 @@ txt7 = txt7+L5[0]+PS2t
 PS3t = 'px\"'
 PS3 = re.compile(PS3t)
 L6 = PS3.split(L5[1])
-newNum = str(int(72.0*Numpub+100))
+newNum = str(int(73.0*Numpub+100))
 txt7 = txt7+newNum+PS3t+L6[1]
 
 os.remove(filename)
