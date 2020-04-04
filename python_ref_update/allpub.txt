@@ -5,7 +5,7 @@
 5<li>Lai, X., Zhu, F., Liu, Y., Bi, W., Zhao, J., Alp, E.E., Hu, M.Y., <strong>Zhang, D.</strong>, Tkachev, S., Manghnani, M.H., Prakapenka, V.B. and Chen, B. (2020), Elastic and magnetic properties of Fe<sub>3</sub>P up to core pressures: Phosphorus in the Earth's core. Earth and Planetary Science Letters, 531, 115974.</li>
 
 
-1<li>Tang, H., Gao, X., Zhang, J., Gao, B., Zhou, W., Yan, B., Li, X., Zhang, Q., Peng, S., Huang, D., Zhang, L., Yuan, X., Wan, B., Peng, C., Wu, L., <strong>Zhang, D.</strong>, Liu, H., Gu, L., Gao, F., Irifune, T., Ahuja, R., Mao, H.-K. and Gou, H. (2020), Chemistry of Materials, 32(1), 459-467.</li>
+1<li>Tang, H., Gao, X., Zhang, J., Gao, B., Zhou, W., Yan, B., Li, X., Zhang, Q., Peng, S., Huang, D., Zhang, L., Yuan, X., Wan, B., Peng, C., Wu, L., <strong>Zhang, D.</strong>, Liu, H., Gu, L., Gao, F., Irifune, T., Ahuja, R., Mao, H.-K. and Gou, H. (2020), Boron-rich Molybdenum Boride with Unusual Short-Range Vacancy Ordering, Anisotropic Hardness, and Superconductivity. Chemistry of Materials, 32(1), 459-467.</li>
 
 1<li>Zhang, X., Tian, H., Li, W., Liu, W., Chen, J., Liu, J., Han, X., Yan, B., Chen, Z., Gou, H., Li, K., Jiang, H., <strong>Zhang, D.</strong>, Kunz, M., and Zhang, H. (2020), High-Pressure Phase Transitions in Densely Packed Nano-Crystallites of TiO<sub>2</sub>-II. The Journal of Physical Chemistry C, 124, 1197-1206.</li>
 
