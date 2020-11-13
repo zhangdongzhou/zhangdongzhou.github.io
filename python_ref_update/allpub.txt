@@ -1,5 +1,5 @@
 1<li>Pei, C., Xia, Y., Wu, J., Zhao, Y., Gao, L., Ying, T., Gao, B., Li, N., Yang, W., <strong>Zhang, D.</strong>, Gou, H., Chen, Y., Hosono, H., Li, G., and Qi, Y.
- (2020), Pressure-Induced Topological and Structural Phase Transitions in an Antiferromagnetic Topological Insulator. Chinese Physics Letters, 37(6), 66401-066401.</li>
+ (2020), Pressure-Induced Topological and Structural Phase Transitions in an Antiferromagnetic Topological Insulator. Chinese Physics Letters, 37(6), 066401.</li>
 
 3<li>Lee, S., Cai, J., Jin, S., <strong>Zhang, D.</strong>, Thevamaran, R., and Xu, H. (2020), Coesite Formation at Low Pressure during Supersonic Microprojectile Impact of Opal. ACS Earth and Space Chemistry, 4(8), 1291-1297.</li>
 
