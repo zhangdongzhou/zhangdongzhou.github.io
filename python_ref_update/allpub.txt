@@ -1,3 +1,11 @@
+1<li>Cai, W., Lin, W., Yan, Y., Hilleke, K.P., Coles, J., Bao, J.K., Xu, J., <strong>Zhang, D.</strong>, Chung, D.Y., Kanatzidis, M.G. and Zurek, E. (2020), Pressure-Induced Superconductivity in the Wide-Band-Gap Semiconductor Cu<sub>2</sub>Br<sub>2</sub>Se<sub>6</sub> with a Robust Framework. Chemistry of Materials, 32(14), 6237-6246.</li>
+
+3<li>Hao, M., Zhang, J. S., Pierotti, C. E., Zhou, W. Y., <strong>Zhang, D.</strong>, and Dera, P. (2020), The seismically fastest chemical heterogeneity in the Earth's deep upper mantle—implications from the single-crystal thermoelastic properties of jadeite. Earth and Planetary Science Letters, 543, 116345.</li>
+
+1<li>Wang, Y., Xu, M., Yang, L., Yan, B., Qin, Q., Shao, X., Zhang, Y., Huang, D., Lin, X., Lv, J. and <strong>Zhang, D.</strong> (2020), Pressure-stabilized divalent ozonide CaO<sub>3</sub> and its impact on Earth’s oxygen cycles. Nature communications, 11(1), 1-7.</li>
+
+4<li>Chen, H., Xie, S.Y., Ko, B., Kim, T., Nisr, C., Prakapenka, V., Greenberg, E., <strong>Zhang, D.</strong>, Bi, W., Ercan, A.E. and Lee, Y. (2020), A new hydrous iron oxide phase stable at mid-mantle pressures. Earth and Planetary Science Letters, 550, 116551.</li>
+
 3<li>Wang, C.-P., Shieh, S.R., Withers, A.C., Liu, X., <strong>Zhang, D.</strong>, Tkachev, S.N., Djirar, A.-E., Xie, T., and Rumney J.D. (2020), Raman and X-ray diffraction study of pressure-induced phase transition in synthetic Mg<sub>2</sub>TiO<sub>4</sub>. Scientific Reports, 10, 6278.</li>
 
 5<li>Chornkrathok, S., <strong>Zhang, D.</strong> and Dera, P.K. (2020), Structure and Behavior of the Ni End-Member Schreibersite Ni<sub>3</sub>P under Compression to 50 GPa. Minerals, 10(4), 306.</li>
