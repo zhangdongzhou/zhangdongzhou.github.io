@@ -1,3 +1,5 @@
+3<li>Xu, J., Fan, D., <strong>Zhang, D.</strong>, Guo, X., Zhou, W., and Dera, P. K. (2020), Phase Transition of Enstatite‐Ferrosilite Solid Solutions at High Pressure and High Temperature: Constraints on Metastable Orthopyroxene in Cold Subduction. Geophysical Research Letters, 47(12), e2020GL087363.</li>
+
 1<li>Pei, C., Xia, Y., Wu, J., Zhao, Y., Gao, L., Ying, T., Gao, B., Li, N., Yang, W., <strong>Zhang, D.</strong>, Gou, H., Chen, Y., Hosono, H., Li, G., and Qi, Y.
  (2020), Pressure-Induced Topological and Structural Phase Transitions in an Antiferromagnetic Topological Insulator. Chinese Physics Letters, 37(6), 066401.</li>
 
@@ -127,7 +129,7 @@
 5<li>Zhu, F., Li, J., Walker, D., Liu, J., Lai, X. and <strong>Zhang, D.</strong>. (2019), Origin and consequences of 
 	non-stoichiometry in iron carbide Fe<sub>7</sub>C<sub>3</sub>. American Mineralogist, 104(3), 325-332.</li>
 
-3<li>Xu, J., <strong>Zhang, D.</strong>, Fan, D., Dera, P. K., Shi, F., & Zhou, W. (2019), Thermoelastic properties of eclogitic
+3<li>Xu, J., <strong>Zhang, D.</strong>, Fan, D., Dera, P. K., Shi, F., and Zhou, W. (2019), Thermoelastic properties of eclogitic
 	garnets and omphacites: Implications for deep subduction of oceanic crust and density anomalies in the upper mantle. 
 	Geophysical Research Letters, 46, 179-188.</li>
 	
