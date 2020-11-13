@@ -1,3 +1,17 @@
+3<li>Lee, S., Cai, J., Jin, S., <strong>Zhang, D.</strong>, Thevamaran, R., and Xu, H. (2020), Coesite Formation at Low Pressure during Supersonic Microprojectile Impact of Opal. ACS Earth and Space Chemistry, 4(8), 1291-1297.</li>
+
+1<li>Nguyen, L. A. T., Minh, D. N., <strong>Zhang, D.</strong>, Wang, L., Kim, J., and Kang, Y. (2020), Pressure-Induced Selective Amorphization of CsPbBr<sub>3</sub> for the Purification of Cs<sub>4</sub>PbBr<sub>6</sub>. The Journal of Physical Chemistry C, 124(40), 22291-22297.</li>
+
+1<li>Hong, X., Newville, M., Ding, Y., <strong>Zhang, D.</strong>, Irifune, T., Gu, G., and Mao, H. K. (2020), Origin of the isostructural electronic states of the topological insulator Bi<sub>2</sub>Te<sub>3</sub>. Physical Review B, 102(13), 134110.</li>
+
+2<li>Lai, X., Zhu, F., Zhang, J. S., <strong>Zhang, D.</strong>, Tkachev, S., Prakapenka, V. B., and Chen, B. (2020), An Externally-Heated Diamond Anvil Cell for Synthesis and Single-Crystal Elasticity Determination of Ice-VII at High Pressure-Temperature Conditions. Journal of Visualized Experiments, 160, e61389.</li>
+
+1<li>Zhang, Q., Liu, X., Li, N., Wang, B., Huang, Q., Wang, L., <strong>Zhang, D.</strong>, Wang, Y. and Yang, W. (2020), Pressure-driven chemical lock-in structure and optical properties in Sillen compounds PbBiO<sub>2</sub>X (X= Cl, Br, and I). Journal of Materials Chemistry A, 8(27), 13610-13618.</li>
+
+1<li>Qin, Q., Wan, B., Yan, B., Gao, B., Hu, Q., <strong>Zhang, D.</strong>, Hosono, H. and Gou, H. (2020), Potential Interaction of Noble Gas Atoms and Anionic Electrons in Ca<sub>2</sub>N. The Journal of Physical Chemistry C, 124(23), 12213-12219.</li>
+
+1<li>Bi, X., Wang, R., Yuan, Y., <strong>Zhang, D.</strong>, Zhang, T., Ma, L., Wu, T., Shahbazian-Yassar, R., Amine, K. and Lu, J. (2020), From Sodium-Oxygen to Sodium-Air Battery: Enabled by Sodium Peroxide Dihydrate. Nano Letters, 20(6), 4681-4686.</li>
+
 1<li>Cai, W., Lin, W., Yan, Y., Hilleke, K.P., Coles, J., Bao, J.K., Xu, J., <strong>Zhang, D.</strong>, Chung, D.Y., Kanatzidis, M.G. and Zurek, E. (2020), Pressure-Induced Superconductivity in the Wide-Band-Gap Semiconductor Cu<sub>2</sub>Br<sub>2</sub>Se<sub>6</sub> with a Robust Framework. Chemistry of Materials, 32(14), 6237-6246.</li>
 
 3<li>Hao, M., Zhang, J. S., Pierotti, C. E., Zhou, W. Y., <strong>Zhang, D.</strong>, and Dera, P. (2020), The seismically fastest chemical heterogeneity in the Earth's deep upper mantle—implications from the single-crystal thermoelastic properties of jadeite. Earth and Planetary Science Letters, 543, 116345.</li>

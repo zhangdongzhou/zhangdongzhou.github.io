@@ -1,3 +1,10 @@
+Lee_ACSESC_2020.pdf
+Nguyen_JPCC_2020.pdf
+Hong_PRB_2020.pdf
+Lai_JOVE_2020.pdf
+Zhang_JMCA_2020.pdf
+Qin_JPCC_2020.pdf
+Bi_NanoLett_2020.pdf
 Cai_ChemMat_2020.pdf
 Hao_EPSL_2020.pdf
 Wang_NatComm_2020.pdf
