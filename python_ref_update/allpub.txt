@@ -1,3 +1,5 @@
+5<li>Huang, S., Wu, X., Zhu, F., Lai, X., Li, J., Neill, O.K., Qin, S., Rapp, R., <strong>Zhang, D.</strong>, Dera, P., Chariton, S., Prakapenka, V.B., and Chen, B. (2021), High-pressure phase stability and thermoelastic properties of iron carbonitrides and nitrogen in the deep earth. Journal of Geophysical Research: Solid Earth, 126, e2021JB021934.</li>
+
 1<li>Tseng, Y.C., Lin, C.M., Jian, S.R., Le, P.H., Gospodinov, M.M., Marinova, V., Dimitrov, D.Z., Luo, C.W., Wu, K.H., <strong>Zhang, D.</strong>, and Juang, J.Y. (2021), Structural and electronic phase transition in Bi<sub>2</sub>Se<sub>2.1</sub>Te<sub>0.9</sub> under pressure. Journal of Physics and Chemistry of Solids, 156, 110123.</li>
 
 3<li>Zhou, W. Y., Ren, Z., Zhang, J. S., Chen, B., Hao, M., Ohuchi, T., Miyagi, L., <strong>Zhang, D.</strong>, Alp, E.E., Lavina, B., and Schmandt, B. (2021), The Water-Fe-Pressure dependent single-crystal elastic properties of wadsleyite: Implications for the seismic anisotropy in the upper Mantle Transition Zone. Earth and Planetary Science Letters, 565, 116955.</li>
