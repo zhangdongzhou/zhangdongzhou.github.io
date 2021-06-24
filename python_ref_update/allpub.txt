@@ -24,7 +24,7 @@
 
 3<li>Nguyen, P.Q., <strong>Zhang, D.</strong>, Rapp, R., Bradley, J.P., and Dera, P. (2021), Room temperature facile synthesis of olivine-Co<sub>2</sub>SiO<sub>4</sub> nanoparticles utilizing a mechanochemical method. RSC Advances, 11(34), 20687-20690.</li>
 
-3<li>Liu, Y., Huang, R., Wu, Y., <strong>Zhang, D.</strong>, Zhang, J., and Wu, X. (2021), Thermal equation of state of phase egg (AlSiO<sub>3</sub>OH): implications for hydrous phases in the deep earth. Contributions to Mineralogy and Petrology, 176(1), 1-10.</li>
+3<li>Liu, Y., Huang, R., Wu, Y., <strong>Zhang, D.</strong>, Zhang, J., and Wu, X. (2021), Thermal equation of state of phase egg (AlSiO<sub>3</sub>OH): implications for hydrous phases in the deep earth. Contributions to Mineralogy and Petrology, 176(1), 8.</li>
 
 5<li>Lv, M., Liu, J., Zhu, F., Li, J., <strong>Zhang, D.</strong>, Xiao, Y., and Dorfman, S. M. (2020), Spin Transitions and Compressibility of ε-Fe<sub>7</sub>N<sub>3</sub> and γ′-Fe<sub>4</sub>N: Implications for Iron Alloys in Terrestrial Planet Cores. Journal of Geophysical Research: Solid Earth, 125(11), e2020JB020660.</li>
 
@@ -34,7 +34,7 @@
 
 3<li>Xu, J., Fan, D., <strong>Zhang, D.</strong>, Li, B., Zhou, W., and Dera, P. K. (2020), Investigation of the crystal structure of a low water content hydrous olivine to 29.9 GPa: A high-pressure single-crystal X-ray diffraction study. American Mineralogist, 105(12), 1857-1865.</li>
 
-3<li>Xu, J., Fan, D., <strong>Zhang, D.</strong>, Guo, X., Zhou, W., and Dera, P. K. (2020), Phase Transition of Enstatite‐Ferrosilite Solid Solutions at High Pressure and High Temperature: Constraints on Metastable Orthopyroxene in Cold Subduction. Geophysical Research Letters, 47(12), e2020GL087363.</li>
+3<li>Xu, J., Fan, D., <strong>Zhang, D.</strong>, Guo, X., Zhou, W., and Dera, P. K. (2020), Phase Transition of Enstatite-Ferrosilite Solid Solutions at High Pressure and High Temperature: Constraints on Metastable Orthopyroxene in Cold Subduction. Geophysical Research Letters, 47(12), e2020GL087363.</li>
 
 1<li>Pei, C., Xia, Y., Wu, J., Zhao, Y., Gao, L., Ying, T., Gao, B., Li, N., Yang, W., <strong>Zhang, D.</strong>, Gou, H., Chen, Y., Hosono, H., Li, G., and Qi, Y.
  (2020), Pressure-Induced Topological and Structural Phase Transitions in an Antiferromagnetic Topological Insulator. Chinese Physics Letters, 37(6), 066401.</li>
