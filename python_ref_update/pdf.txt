@@ -1,3 +1,16 @@
+Tseng_JPCS_2021.pdf
+Zhou_EPSL_2021.pdf
+Luo_AdvSci_2021.pdf
+Bi_PRB_2021.pdf
+Zhang_JPCL_2021.pdf
+Cai_NatComm_2021.pdf
+Wang_JPCC_2021.pdf
+Ye_Gondwana_2021.pdf
+Li_GeoFro_2021.pdf
+Zhuang_GeoFro_2021.pdf
+Guo_JACS_2021.pdf
+Nguyen_RSCAdv_2021.pdf
+Liu_CMP_2021.pdf
 Lv_JGR_2020.pdf
 Liu_InorgChem_2020.pdf
 Lv_NSR_2020.pdf
