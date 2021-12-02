@@ -1,3 +1,5 @@
+3<li>Zhang, J.S., Irifune, T., Hao, M., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S., Dera, P., Chen, J., Jiang, Y.-B., Brearley, A.J., Bass, J.D. and Prakapenka, V.B., (2021), Grain size dependent high-pressure elastic properties of ultrafne micro/nanocrystalline grossular. Scientific Reports, 11, 22481.</li>
+
 1<li>Wang, B., Li, N., Zhao, Y., Liu, X., Li, M., Zhang, Q., Dong, H., He, Y., <strong>Zhang, D.</strong>, Wang, Y., Liu, G., Long, Y. and Yang, W., (2021), A large enhancement of ionic conductivity in SrCoO<sub>2.5</sub> controlled by isostructural phase transition and negative linear compressibility. Applied Physics Letters, 119, 043902.</li>
 
 1<li>Cui, Z., Bu, K., ZHuang, Y., Donnelly, M.-E., <strong>Zhang, D.</strong>, Dalladay-Simpson, P., Howie, R.T., Zhang, J., Lü, X. and Hu, Q., (2021), Phase transition mechanism and bandgap engineering of Sb<sub>2</sub>S<sub>3</sub> at gigapascal pressures. Communication Chemistry, 4, 125.</li>
