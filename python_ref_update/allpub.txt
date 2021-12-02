@@ -1,3 +1,7 @@
+1<li>Wang, B., Li, N., Zhao, Y., Liu, X., Li, M., Zhang, Q., Dong, H., He, Y., <strong>Zhang, D.</strong>, Wang, Y., Liu, G., LOng, Y. and Yang, W., (2021), A large enhancement of ionic conductivity in SrCoO<sub>2.5</sub> controlled by isostructural phase transition and negative linear compressibility. Applied Physics Letters, 119, 043902.</li>
+
+1<li>Cui, Z., Bu, K., ZHuang, Y., Donnelly, M.-E., <strong>Zhang, D.</strong>, Dalladay-Simpson, P., Howie, R.T., Zhang, J., Lü, X. and Hu, Q., (2021), Phase transition mechanism and bandgap engineering of Sb<sub>2</sub>S<sub>3</sub> at gigapascal pressures. Communication Chemistry, 4, 125.</li>
+
 3<li>Liu, Y., Dai, L., Lai, X., Zhu, F., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S. and Chen, B., (2021), Phase Transitions in Natural Vanadinite at High Pressures. Minerals, 11, 1217.</li>
 
 4<li>Wang, F., Thompson, E.C., <strong>Zhang, D.</strong>, Alp, E.E., Zhao, J., Smyth, J.R. and Jacobsen, S.D., (2021), High-pressure crystal structure and equation of state of ferromagnesian jeffbenite: implications for stability in the transition zone and uppermost lower mantle. Contributions to Mineralogy and Petrology, 176, 93.</li>
