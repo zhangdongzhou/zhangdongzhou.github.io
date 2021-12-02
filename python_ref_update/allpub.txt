@@ -1,3 +1,5 @@
+3<li>Liu, Y., Dai, L., Lai, X., Zhu, F., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S. and Chen, B., (2021), Phase Transitions in Natural Vanadinite at High Pressures. Minerals, 11, 1217.</li>
+
 4<li>Wang, F., Thompson, E.C., <strong>Zhang, D.</strong>, Alp, E.E., Zhao, J., Smyth, J.R. and Jacobsen, S.D., (2021), High-pressure crystal structure and equation of state of ferromagnesian jeffbenite: implications for stability in the transition zone and uppermost lower mantle. Contributions to Mineralogy and Petrology, 176, 93.</li>
 
 3<li><strong>Zhang, D.</strong>, Chen, M., Dera, P.K. and Eng, P.J., (2021), Experimental calibration of the reduced partition function ratios of tetrahedrally coordinated silicon from the Debye–Waller factors. Contributions to Mineralogy and Petrology, 176, 66.</li>
