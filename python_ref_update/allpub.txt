@@ -1,18 +1,18 @@
-3<li>Zhang, J.S., Irifune, T., Hao, M., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S., Dera, P., Chen, J., Jiang, Y.-B., Brearley, A.J., Bass, J.D., and Prakapenka, V.B., (2021), Grain size dependent high-pressure elastic properties of ultrafne micro/nanocrystalline grossular. Scientific Reports, 11, 22481.</li>
+3<li>Zhang, J.S., Irifune, T., Hao, M., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S., Dera, P., Chen, J., Jiang, Y.-B., Brearley, A.J., Bass, J.D., and Prakapenka, V.B. (2021), Grain size dependent high-pressure elastic properties of ultrafne micro/nanocrystalline grossular. Scientific Reports, 11, 22481.</li>
 
-1<li>Wang, B., Li, N., Zhao, Y., Liu, X., Li, M., Zhang, Q., Dong, H., He, Y., <strong>Zhang, D.</strong>, Wang, Y., Liu, G., Long, Y., and Yang, W., (2021), A large enhancement of ionic conductivity in SrCoO<sub>2.5</sub> controlled by isostructural phase transition and negative linear compressibility. Applied Physics Letters, 119, 043902.</li>
+1<li>Wang, B., Li, N., Zhao, Y., Liu, X., Li, M., Zhang, Q., Dong, H., He, Y., <strong>Zhang, D.</strong>, Wang, Y., Liu, G., Long, Y., and Yang, W. (2021), A large enhancement of ionic conductivity in SrCoO<sub>2.5</sub> controlled by isostructural phase transition and negative linear compressibility. Applied Physics Letters, 119, 043902.</li>
 
-1<li>Cui, Z., Bu, K., Zhuang, Y., Donnelly, M.-E., <strong>Zhang, D.</strong>, Dalladay-Simpson, P., Howie, R.T., Zhang, J., Lü, X., and Hu, Q., (2021), Phase transition mechanism and bandgap engineering of Sb<sub>2</sub>S<sub>3</sub> at gigapascal pressures. Communication Chemistry, 4, 125.</li>
+1<li>Cui, Z., Bu, K., Zhuang, Y., Donnelly, M.-E., <strong>Zhang, D.</strong>, Dalladay-Simpson, P., Howie, R.T., Zhang, J., Lü, X., and Hu, Q. (2021), Phase transition mechanism and bandgap engineering of Sb<sub>2</sub>S<sub>3</sub> at gigapascal pressures. Communication Chemistry, 4, 125.</li>
 
-3<li>Liu, Y., Dai, L., Lai, X., Zhu, F., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S., and Chen, B., (2021), Phase Transitions in Natural Vanadinite at High Pressures. Minerals, 11, 1217.</li>
+3<li>Liu, Y., Dai, L., Lai, X., Zhu, F., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S., and Chen, B. (2021), Phase Transitions in Natural Vanadinite at High Pressures. Minerals, 11, 1217.</li>
 
-4<li>Wang, F., Thompson, E.C., <strong>Zhang, D.</strong>, Alp, E.E., Zhao, J., Smyth, J.R., and Jacobsen, S.D., (2021), High-pressure crystal structure and equation of state of ferromagnesian jeffbenite: implications for stability in the transition zone and uppermost lower mantle. Contributions to Mineralogy and Petrology, 176, 93.</li>
+4<li>Wang, F., Thompson, E.C., <strong>Zhang, D.</strong>, Alp, E.E., Zhao, J., Smyth, J.R., and Jacobsen, S.D. (2021), High-pressure crystal structure and equation of state of ferromagnesian jeffbenite: implications for stability in the transition zone and uppermost lower mantle. Contributions to Mineralogy and Petrology, 176, 93.</li>
 
-3<li><strong>Zhang, D.</strong>, Chen, M., Dera, P.K., and Eng, P.J., (2021), Experimental calibration of the reduced partition function ratios of tetrahedrally coordinated silicon from the Debye–Waller factors. Contributions to Mineralogy and Petrology, 176, 66.</li>
+3<li><strong>Zhang, D.</strong>, Chen, M., Dera, P.K., and Eng, P.J. (2021), Experimental calibration of the reduced partition function ratios of tetrahedrally coordinated silicon from the Debye–Waller factors. Contributions to Mineralogy and Petrology, 176, 66.</li>
 
-3<li>Qin, F., <strong>Zhang, D.</strong>, and Qin, S., (2021), High Pressure Behaviors and a Novel High-Pressure Phase of Cuprous Oxide Cu<sub>2</sub>O. Frontiers in Earth Science, 9, 740685.</li>
+3<li>Qin, F., <strong>Zhang, D.</strong>, and Qin, S. (2021), High Pressure Behaviors and a Novel High-Pressure Phase of Cuprous Oxide Cu<sub>2</sub>O. Frontiers in Earth Science, 9, 740685.</li>
 
-1<li>Lü, X., Stoumpos, C., Hu, Q., Ma, X., <strong>Zhang, D.</strong>, Guo, S., Hoffman, J., Bu, K., Guo, X., Wang, Y., and Ji, C., (2021), Regulating off-centering distortion maximizes photoluminescence in halide perovskites. National Science Review, 8(9), nwaa288.</li>
+1<li>Lü, X., Stoumpos, C., Hu, Q., Ma, X., <strong>Zhang, D.</strong>, Guo, S., Hoffman, J., Bu, K., Guo, X., Wang, Y., and Ji, C. (2021), Regulating off-centering distortion maximizes photoluminescence in halide perovskites. National Science Review, 8(9), nwaa288.</li>
 
 5<li>Huang, S., Wu, X., Zhu, F., Lai, X., Li, J., Neill, O.K., Qin, S., Rapp, R., <strong>Zhang, D.</strong>, Dera, P., Chariton, S., Prakapenka, V.B., and Chen, B. (2021), High-pressure phase stability and thermoelastic properties of iron carbonitrides and nitrogen in the deep earth. Journal of Geophysical Research: Solid Earth, 126, e2021JB021934.</li>
 
@@ -301,7 +301,7 @@
 3<li><strong>Zhang, D.</strong>, Jackson, J.M., Chen, B., Sturhahn, W., Zhao, J., Yan, J., and Caracas, R. (2013), 
 		Elasticity and lattice dynamics of enstatite at high pressure, Journal of Geophysical Research-Solid Earth, 118, B50303.</li>
 		
-4<li>Chen, B., Jackson, J.M., Sturhahn, W., <strong>Zhang, D.</strong>, Zhao, J., Wicks, J.K., and Murphy, C.A., (2012), Spin 
+4<li>Chen, B., Jackson, J.M., Sturhahn, W., <strong>Zhang, D.</strong>, Zhao, J., Wicks, J.K., and Murphy, C.A. (2012), Spin 
 		crossover equation of state and sound velocities of (Mg<sub>0.65</sub>Fe<sub>0.35</sub>)O ferropericlase up to 140 GPa, 
 		Journal of Geophysical Research-Solid Earth, 117, B08208.</li>
 		
