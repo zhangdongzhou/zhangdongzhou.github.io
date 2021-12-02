@@ -1,3 +1,5 @@
+1<li>Lü, X., Stoumpos, C., Hu, Q., Ma, X., <strong>Zhang, D.</strong>, Guo, S., Hoffman, J., Bu, K., Guo, X., Wang, Y. and Ji, C., (2020), Regulating off-centering distortion maximizes photoluminescence in halide perovskites. National Science Review, 8(9), nwaa288.</li>
+
 5<li>Huang, S., Wu, X., Zhu, F., Lai, X., Li, J., Neill, O.K., Qin, S., Rapp, R., <strong>Zhang, D.</strong>, Dera, P., Chariton, S., Prakapenka, V.B., and Chen, B. (2021), High-pressure phase stability and thermoelastic properties of iron carbonitrides and nitrogen in the deep earth. Journal of Geophysical Research: Solid Earth, 126, e2021JB021934.</li>
 
 1<li>Tseng, Y.C., Lin, C.M., Jian, S.R., Le, P.H., Gospodinov, M.M., Marinova, V., Dimitrov, D.Z., Luo, C.W., Wu, K.H., <strong>Zhang, D.</strong>, and Juang, J.Y. (2021), Structural and electronic phase transition in Bi<sub>2</sub>Se<sub>2.1</sub>Te<sub>0.9</sub> under pressure. Journal of Physics and Chemistry of Solids, 156, 110123.</li>
@@ -29,8 +31,6 @@
 5<li>Lv, M., Liu, J., Zhu, F., Li, J., <strong>Zhang, D.</strong>, Xiao, Y., and Dorfman, S. M. (2020), Spin Transitions and Compressibility of ε-Fe<sub>7</sub>N<sub>3</sub> and γ′-Fe<sub>4</sub>N: Implications for Iron Alloys in Terrestrial Planet Cores. Journal of Geophysical Research: Solid Earth, 125(11), e2020JB020660.</li>
 
 3<li>Liu, Y., Huang, S., Li, X., Song, H., Xu, J., <strong>Zhang, D.</strong>, and Wu, X. (2020), Pressure-Induced Phase Transition in Mn (Ta, Nb)<sub>2</sub>O<sub>6</sub>: An Experimental Investigation and First-Principle Study. Inorganic Chemistry, 59(24), 18122-18130.</li>
-
-1<li>Lü, X., Stoumpos, C., Hu, Q., Ma, X., <strong>Zhang, D.</strong>, Guo, S., Hoffman, J., Bu, K., Guo, X., Wang, Y. and Ji, C., (2020), Regulating off-centering distortion maximizes photoluminescence in halide perovskites. National Science Review, nwaa288.</li>
 
 3<li>Xu, J., Fan, D., <strong>Zhang, D.</strong>, Li, B., Zhou, W., and Dera, P. K. (2020), Investigation of the crystal structure of a low water content hydrous olivine to 29.9 GPa: A high-pressure single-crystal X-ray diffraction study. American Mineralogist, 105(12), 1857-1865.</li>
 
