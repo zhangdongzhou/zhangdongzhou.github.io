@@ -1,3 +1,5 @@
+3<li>Ye, Z., Fan, D., Li, B., Tang, Q., Xu, J., <strong>Zhang, D.</strong>, and Zhou, W. (2022), Thermal equation of state of the main minerals of eclogite: Constraining the density evolution of eclogite during the delamination process in Tibet. Solid Earth, 13(3), 745-759.</li>
+
 3<li>Nguyen, P.Q., McKenzie, W., <strong>Zhang, D.</strong>, Xu, J., Rapp, R., Bradley, J.P. and Dera, P. (2022), Mechanochemical Synthesis of Nanocrystalline Olivine-Type Mg<sub>2</sub>SiO<sub>4</sub> and MgCoSiO<sub>4</sub>. Crystals, 12(3), 369.</li>
 
 5<li><strong>Zhang, D.</strong>, Jackson, J.M., Sturhahn, W., Zhao, J., Alp, E.E. and Hu, M.Y. (2022), Measurements of the Lamb-Mössbauer factor at simultaneous high-pressure-temperature conditions and estimates of the equilibrium isotopic fractionation of iron. American Mineralogist, 107(3), 421-431.</li>
