@@ -1,3 +1,7 @@
+4<li>Li, X., Liu, Y., Wang, R., Yoshino, T., Xu, J., <strong>Zhang, D.</strong>, Grutzner, T., Zhang, J. and Wu, X. (2022), Thermal equation of state of F-bearing superhydrous phase B
+(Mg<sub>10</sub>Si<sub>3</sub>O<sub>14</sub>(OH,F)<sub>4</sub>): Implications for the transportation of fluorine and
+water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 106824.</li>
+
 3<li>Zhang, J.S., Irifune, T., Hao, M., <strong>Zhang, D.</strong>, Hu, Y., Tkachev, S., Dera, P., Chen, J., Jiang, Y.-B., Brearley, A.J., Bass, J.D., and Prakapenka, V.B. (2021), Grain size dependent high-pressure elastic properties of ultrafne micro/nanocrystalline grossular. Scientific Reports, 11, 22481.</li>
 
 1<li>Wang, B., Li, N., Zhao, Y., Liu, X., Li, M., Zhang, Q., Dong, H., He, Y., <strong>Zhang, D.</strong>, Wang, Y., Liu, G., Long, Y., and Yang, W. (2021), A large enhancement of ionic conductivity in SrCoO<sub>2.5</sub> controlled by isostructural phase transition and negative linear compressibility. Applied Physics Letters, 119, 043902.</li>
