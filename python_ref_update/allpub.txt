@@ -24,7 +24,7 @@
 
 4<li>Ko, B., Greenberg, E., Prakapenka, V., Alp, E.E., Bi, W., Meng, Y., <strong>Zhang, D.</strong> and Shim, S.H. (2022), Calcium dissolution in bridgmanite in the Earth’s deep mantle. Nature, 611(7934), 88-92.</li>
 
-3<li>Shargh, A.K., Picard, A., Hrubiak, R., <strong>Zhang, D.</strong>, Hemley, R.J., Deemyad, S., Abdolrahim, N. and Saffarian, S. (2022), Coexistence of vitreous and crystalline phases of H 2 O at ambient temperature. Proceedings of the National Academy of Sciences, 119(27), e2117281119.</li>
+3<li>Shargh, A.K., Picard, A., Hrubiak, R., <strong>Zhang, D.</strong>, Hemley, R.J., Deemyad, S., Abdolrahim, N. and Saffarian, S. (2022), Coexistence of vitreous and crystalline phases of H<sub>2</sub>O at ambient temperature. Proceedings of the National Academy of Sciences, 119(27), e2117281119.</li>
 
 2<li>Sutton, S.R., Rivers, M.L., Chariton, S., Eng, P.J., Lanzirotti, A., Newville, M., Officer, T. Prakapanka, V.B., Ryu, Y.J., Stubbs, J.E., Tkachev, S., Wang, Y., Wanhala, A., Xu, J., Xu, M., Yu, T., and <strong>Zhang, D.</strong> (2022), GeoSoilEnviroCARS (Sector 13) at the Advanced Photon Source: a comprehensive synchrotron radiation facility for Earth science research at ambient and extreme conditions. Physics and Chemistry of Minerals, 49, 32.</li>
 
