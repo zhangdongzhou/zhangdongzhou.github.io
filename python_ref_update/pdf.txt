@@ -1,7 +1,7 @@
 Yuan_JPCM_2023.pdf
 Rucks_AmMin_2023.pdf
 Lorenzon_EPSL_2023.pdf
-Yan_Nanolett_2023.pdf
+Yan_NanoLett_2023.pdf
 Liu_NPJQM_2023.pdf
 Dunning_AngewChem_2023.pdf
 Huang_GSABull_2023.pdf
