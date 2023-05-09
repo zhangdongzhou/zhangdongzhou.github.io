@@ -1,3 +1,21 @@
+3<li>Rucks, M.J., Finkelstein, G.J., <strong>Zhang, D.</strong>, Dera, P.K. and Duffy, T.S. (2023), Single-crystal X-ray diffraction of fluorapatite to 61 GPa. American Mineralogist, 108(4), 731-737.</li>
+
+4<li>Lorenzon, S., Wenz, M., Nimis, P., Jacobsen, S.D., Pasqualetto, L., Pamato, M.G., Novella, D., <strong>Zhang, D.</strong>, Anzolini, C., Regier, M. and Stachel, T. (2023), Dual origin of ferropericlase inclusions within super-deep diamonds. Earth and Planetary Science Letters, 608, 118081.</li>
+
+1<li>Yan, L., Ding, C., Li, M., Tang, R., Chen, W., Liu, B., Bu, K., Huang, T., Dai, D., Jin, X., Yang, X., Cheng, E., Li, N., Zhang, Q., Liu, F., Liu, X., <strong>Zhang, D.</strong>, Ma, S., Tao, Q., Zhu, P., Li, S., Lu, X., Sun, J., Wang, X. and Yang, W. (2023), Modulating charge-density wave order and superconductivity from two alternative stacked monolayers in a bulk 4<em>Hb</em>-TaSe<sub>2</sub> heterostructure via Pressure. Nano Letters. 23(6), 2121-2128.</li>
+
+1<li>Liu, F., Hao, Y., Ni, J., Zhao, Y., <strong>Zhang, D.</strong>, Fabbris, G., Haske, D., Cheng, S., Xu, X., Yin, L. and Xiang, H. (2023), Pressure-induced charge orders and their coupling to magnetism in hexagonal multiferroic LuFe<sub>2</sub>O<sub>4</sub>. npj Quantum Materials, 8, 1.</li>
+
+1<li>Dunning, S.G., Chen, B., Zhu, L., Cody, G.D., Chariton, S., Prakapenka, V.B., <strong>Zhang, D.</strong> and Strobel, T.A. (2023), Synthesis and Post-Processing of Chemically Homogeneous Nanothreads from 2, 5-Furandicarboxylic Acid. Angewandte Chemie International Edition, 62(14), e202217023.</li>
+
+3<li>Huang, S., Ye, Z., Fan, D., Xu, J., <strong>Zhang, D.</strong>, Chen, W., Kuang, Y. and Zhou, W. (2023), Thermal equation of state for zoisite: Implications for the transportation of water into the upper mantle and the high-velocity anomaly in the Farallon plate. GSA Bulletin, 135, 1178-1186.</li>
+
+1<li>Liu, X., Li, M., Zhang, Q., Wang, Y., Li, N., Peng, S., Yin, T., Guo, S., Liu, Y., Yan, L., <strong>Zhang, D.</strong>, Kim, J., Liu, G., Wang, Y. and Yang, W. (2022), Pressure Engineering Promising Transparent Oxides with Large Conductivity Enhancement and Strong Thermal Stability. Advanced Science, 9(31), 2202973.</li>
+
+1<li>Nix, Z., Zhao, J., Alp, E.E., Xiao, Y., <strong>Zhang, D.</strong>, Cao, G.H., Vohra, Y.K. and Bi, W. (2022), Pressure effect on magnetism and valence in ferromagnetic superconductor Eu(Fe<sub>0.75</sub>Ru<sub>0.25</sub>)<sub>2</sub>As<sub>2</sub>. Journal of Physics: Condensed Matter, 34(41), 415601.</li>
+
+3<li>Xu, J., Fan, D., Li, B., Tkachev, S.N., <strong>Zhang, D.</strong>, Yang, G., Zhou, Y., Song, J. and Zhou, W. (2022), Thermal equation of state of Cr-pyrope: implications for entrapment pressure of Cr-pyrope inclusion in diamond. Contributions to Mineralogy and Petrology, 177(7), 69.</li>
+
 1<li>Li, Q., Cheng, H., Xing, C., Guo, S., Wu, X., Zhang, L., <strong>Zhang, D.</strong>, Liu, X., Wen, X., Lü, X. and Zhang, H. (2022), Pressure-Induced Amorphization and Crystallization of Heterophase Pd Nanostructures. Small, 18(17), 2106396.</li>
 
 3<li>Xu, J., Fan, D., Li, B., Tkachev, S.N., Prakapenka, V.B., <strong>Zhang, D.</strong>, Yang, G., Zhou, Y. and Zhou, W. (2022), High-Pressure and High-Temperature Single-Crystal Elasticity of Cr-Pyrope: Implications for the Density and Seismic Velocity of Subcontinental Lithospheric Mantle. Geochemistry, Geophysics, Geosystems, 23(8), e2022GC010393.</li>
@@ -10,7 +28,7 @@
 
 2<li><strong>Zhang, D.</strong>, Xu, J., Dera, P.K., Rivers, M.L., Eng, P.J., Prakapenka, V.B. and Stubbs, J.E. (2022), Recent developments on high-pressure single-crystal X-ray diffraction at the Partnership for eXtreme Xtallography (PX2) program. Physics and Chemistry of Minerals, 49, 19.</li>
 
-1<li>Bi, W., Culverhouse, T., Nix, Z., Xie, W., Tien, H.J., Chang, T.R., Dutta, U., Zhao, J., Lavina, B., Alp, E.E. and <strong>Zhang, D.</strong> (2022), Drastic enhancement of magnetic critical temperature and amorphization in topological magnet EuSn<sub>2</sub>P<sub>2</sub> under pressure. npj Quantum Materials, 7, 43.</li>
+1<li>Bi, W., Culverhouse, T., Nix, Z., Xie, W., Tien, H.J., Chang, T.R., Dutta, U., Zhao, J., Lavina, B., Alp, E.E., <strong>Zhang, D.</strong>, Xu, J., Xiao, Y. and Vohra, Y.K. (2022), Drastic enhancement of magnetic critical temperature and amorphization in topological magnet EuSn<sub>2</sub>P<sub>2</sub> under pressure. npj Quantum Materials, 7, 43.</li>
 
 5<li>Dobrosavljevic, V.V., <strong>Zhang, D.</strong>, Sturhahn, W., Zhao, J., Toellner, T.S., Chariton, S., Prakapenka, V.B., Pardo, O.S. and Jackson, J.M. (2022), Melting and phase relations of Fe-Ni-Si determined by a multi-technique approach. Earth and Planetary Science Letters, 584, 117358.</li>
 

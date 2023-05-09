@@ -1,3 +1,12 @@
+Rucks_AmMin_2023.pdf
+Lorenzon_EPSL_2023.pdf
+Yan_Nanolett_2023.pdf
+Liu_NPJQM_2023.pdf
+Dunning_AngewChem_2023.pdf
+Huang_GSABull_2023.pdf
+Liu_AdvSci_2022.pdf
+Nix_JPCM_2022.pdf
+Xu_CMP_2022.pdf
 Li_Small_2022.pdf
 Xu_G3_2022.pdf
 Ko_Nature_2022.pdf
@@ -132,4 +141,3 @@ Zhang_AM_2011.pdf
 Jiang_CN101314869B_2010.pdf
 Chen_AngewChem_2009.pdf
 Yang_CSB_2009.pdf
-
