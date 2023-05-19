@@ -12,6 +12,8 @@
 
 3<li>Huang, S., Ye, Z., Fan, D., Xu, J., <strong>Zhang, D.</strong>, Chen, W., Kuang, Y. and Zhou, W. (2023), Thermal equation of state for zoisite: Implications for the transportation of water into the upper mantle and the high-velocity anomaly in the Farallon plate. GSA Bulletin, 135, 1178-1186.</li>
 
+4<li>Huang, S., Wu, X., Chariton, S., Prakapenka, V.B., Liang, L., <strong>Zhang, D.</strong>, Yang, Y., Chen, B. and Qin, S. (2022), Experimental constraints on the fate of subducted sedimentary nitrogen in the reduced mantle. Journal of Geophysical Research: Solid Earth, 127(12), e2022JB025169</li>
+
 1<li>Liu, X., Li, M., Zhang, Q., Wang, Y., Li, N., Peng, S., Yin, T., Guo, S., Liu, Y., Yan, L., <strong>Zhang, D.</strong>, Kim, J., Liu, G., Wang, Y. and Yang, W. (2022), Pressure Engineering Promising Transparent Oxides with Large Conductivity Enhancement and Strong Thermal Stability. Advanced Science, 9(31), 2202973.</li>
 
 1<li>Nix, Z., Zhao, J., Alp, E.E., Xiao, Y., <strong>Zhang, D.</strong>, Cao, G.H., Vohra, Y.K. and Bi, W. (2022), Pressure effect on magnetism and valence in ferromagnetic superconductor Eu(Fe<sub>0.75</sub>Ru<sub>0.25</sub>)<sub>2</sub>As<sub>2</sub>. Journal of Physics: Condensed Matter, 34(41), 415601.</li>
