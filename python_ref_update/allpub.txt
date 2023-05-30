@@ -1,3 +1,5 @@
+1<li>Fu, B., Zhao, Y., Liu, Y., He, W., Liu, F., <strong>Zhang, D.</strong>,, Wang, L., Liu, H., Li, W. and Cai, W. (2023), Pressure-Induced Ferroelastic Transition Drives a Large Shape Change in a Ni (II) Complex Single Crystal. The Journal of Physical Chemistry Letters, 14, 3891-3897.</li>
+
 1<li>Yuan, S., Wang, L., Liu, F., Bass, J.D., Li, Y., Ginsberg, P.A., <strong>Zhang, D.</strong>, Prakapenka, V.B., Tkachev, S. and Liu, H. (2023), Early crystallization of amorphous selenium under high pressure studied by synchrotron XRD method. Journal of Physics: Condensed Matter, 35(26), 264003.</li>
 
 3<li>Rucks, M.J., Finkelstein, G.J., <strong>Zhang, D.</strong>, Dera, P.K. and Duffy, T.S. (2023), Single-crystal X-ray diffraction of fluorapatite to 61 GPa. American Mineralogist, 108(4), 731-737.</li>
