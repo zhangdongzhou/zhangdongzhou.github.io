@@ -14,6 +14,8 @@
 
 3<li>Huang, S., Ye, Z., Fan, D., Xu, J., <strong>Zhang, D.</strong>, Chen, W., Kuang, Y. and Zhou, W. (2023), Thermal equation of state for zoisite: Implications for the transportation of water into the upper mantle and the high-velocity anomaly in the Farallon plate. GSA Bulletin, 135, 1178-1186.</li>
 
+1<li>Cai, W., Yan, L., Chong, S.K., Xu, J., <strong>Zhang, D.</strong>, Deshpande, V.V., Zhou, L. and Deemyad, S. (2022), Pressure-induced metallization in the absence of a structural transition in the layered ferromagnetic insulator Cr<sub>2</sub>Ge<sub>2</sub>Te<sub>6</sub>. Physical Review B, 106, 085116.</li>
+
 4<li>Huang, S., Wu, X., Chariton, S., Prakapenka, V.B., Liang, L., <strong>Zhang, D.</strong>, Yang, Y., Chen, B. and Qin, S. (2022), Experimental constraints on the fate of subducted sedimentary nitrogen in the reduced mantle. Journal of Geophysical Research: Solid Earth, 127(12), e2022JB025169</li>
 
 1<li>Liu, X., Li, M., Zhang, Q., Wang, Y., Li, N., Peng, S., Yin, T., Guo, S., Liu, Y., Yan, L., <strong>Zhang, D.</strong>, Kim, J., Liu, G., Wang, Y. and Yang, W. (2022), Pressure Engineering Promising Transparent Oxides with Large Conductivity Enhancement and Strong Thermal Stability. Advanced Science, 9(31), 2202973.</li>
