@@ -13,6 +13,7 @@ Wang_JAP_2023.pdf
 Matsuoka_PRB_2023.pdf
 Liu_JES_2023.pdf
 Amiel_JMCC_2023.pdf
+Jose_PRB_2023.pdf
 Fu_JPCL_2023.pdf
 Yuan_JPCM_2023.pdf
 Rucks_AmMin_2023.pdf
