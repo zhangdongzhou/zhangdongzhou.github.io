@@ -1,6 +1,6 @@
 1<li>Yamaguchi, T., Dukhin, A., Ryu, Y.J., <strong>Zhang, D.</strong>, Borodin, O., González, M.A., Yamamuro, O., Price, D.L. and Saboungi, M.L. (2024), Non-Newtonian Dynamics in Water-in-Salt Electrolytes. The Journal of Physical Chemistry Letters, 15, 76-80.</li>
 
-3<li>Qin, F., Wu, Y., Xue, S., <strong>Zhang, D.</strong>, Wu, X. and Jacobsen, S.D. (2023), Crystal structure of calcium-ferrite type NaAlSiO<sub>4</sub> up to 45 GPa. American Mineralogist, 108(12), 2331-2337.</li>
+4<li>Qin, F., Wu, Y., Xue, S., <strong>Zhang, D.</strong>, Wu, X. and Jacobsen, S.D. (2023), Crystal structure of calcium-ferrite type NaAlSiO<sub>4</sub> up to 45 GPa. American Mineralogist, 108(12), 2331-2337.</li>
 
 2<li>Wang, S., Berrada, M., Chao, K.H., Lai, X., Zhu, F., <strong>Zhang, D.</strong>, Chariton, S., Prakapenka, V.B., Sinogeikin, S. and Chen, B. (2023), Externally Heated Diamond ANvil Cell Experimentation (EH-DANCE) for studying materials and processes under extreme conditions. Review of Scientific Instruments, 94(12), 123902.</li>
 
@@ -8,7 +8,7 @@
 
 5<li>Dobrosavljevic, V.V., <strong>Zhang, D.</strong>, Sturhahn, W., Chariton, S., Prakapenka, V.B., Zhao, J., Toellner, T.S., Pardo, O.S. and Jackson, J.M. (2023), Melting and defect transitions in FeO up to pressures of Earth’s core-mantle boundary. Nature Communications, 14(1), 7336.</li>
 
-3<li>Ye, Z., Xu, J., Fan, D., <strong>Zhang, D.</strong>, Zhou, W. and Xie, H. (2023), Amorphous Mn<sub>2</sub>SiO<sub>4</sub>: A potential manganese phase in the stagnant slab. American Mineralogist, 108(11), 2121-2130.</li>
+4<li>Ye, Z., Xu, J., Fan, D., <strong>Zhang, D.</strong>, Zhou, W. and Xie, H. (2023), Amorphous Mn<sub>2</sub>SiO<sub>4</sub>: A potential manganese phase in the stagnant slab. American Mineralogist, 108(11), 2121-2130.</li>
 
 1<li>Mao, Y., Guo, S., Huang, X., Bu, K., Li, Z., Nguyen, P.Q., Liu, G., Hu, Q., <strong>Zhang, D.</strong>, Fu, Y., Yang, W. and Lv, X. (2023), Pressure-Modulated Anomalous Organic–Inorganic Interactions Enhance Structural Distortion and Second-Harmonic Generation in MHyPbBr<sub>3</sub> Perovskite. Journal of the American Chemical Society, 145(43), 23842-23848.</li>
 
@@ -90,7 +90,7 @@
 
 1<li>Childs, C.M., Steele, B.A., Grivickas, P., <strong>Zhang, D.</strong>, Crowhurst, J., Kuo, I.F.W., Bastea, S. and Clarke, S.M. (2022), High-Pressure Investigation of 2, 4, 6-Trinitro-3-bromoanisole (TNBA): Structural Determination and Piezochromism. The Journal of Physical Chemistry C, 126, 1176-1187.</li>
 
-3<li>Xu, J., Fan, D., <strong>Zhang, D.</strong>, Ma, M., Zhou, Y., Tkachev, S.N., Zhou, W. and Dera, P.K. (2022), Phase Transitions of Fe‐, Al‐and Ca‐Bearing Orthopyroxenes at High Pressure and High Temperature: Implications for Metastable Orthopyroxenes in Stagnant Slabs. Journal of Geophysical Research: Solid Earth, 127(1), e2021JB023133.</li>
+4<li>Xu, J., Fan, D., <strong>Zhang, D.</strong>, Ma, M., Zhou, Y., Tkachev, S.N., Zhou, W. and Dera, P.K. (2022), Phase Transitions of Fe‐, Al‐and Ca‐Bearing Orthopyroxenes at High Pressure and High Temperature: Implications for Metastable Orthopyroxenes in Stagnant Slabs. Journal of Geophysical Research: Solid Earth, 127(1), e2021JB023133.</li>
 
 3<li>Gajda, R., <strong>Zhang, D.</strong>, Parafiniuk, J., Dera, P.K. and Woźniak, K. (2022), Tracing electron density changes in langbeinite under pressure. IUCrJ, 9(1), 146-162.</li>
 
@@ -177,7 +177,7 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 
 4<li>Chen, H., Xie, S.Y., Ko, B., Kim, T., Nisr, C., Prakapenka, V., Greenberg, E., <strong>Zhang, D.</strong>, Bi, W., Ercan, A.E. and Lee, Y. (2020), A new hydrous iron oxide phase stable at mid-mantle pressures. Earth and Planetary Science Letters, 550, 116551.</li>
 
-3<li>Wang, C.-P., Shieh, S.R., Withers, A.C., Liu, X., <strong>Zhang, D.</strong>, Tkachev, S.N., Djirar, A.-E., Xie, T., and Rumney J.D. (2020), Raman and X-ray diffraction study of pressure-induced phase transition in synthetic Mg<sub>2</sub>TiO<sub>4</sub>. Scientific Reports, 10, 6278.</li>
+4<li>Wang, C.-P., Shieh, S.R., Withers, A.C., Liu, X., <strong>Zhang, D.</strong>, Tkachev, S.N., Djirar, A.-E., Xie, T., and Rumney J.D. (2020), Raman and X-ray diffraction study of pressure-induced phase transition in synthetic Mg<sub>2</sub>TiO<sub>4</sub>. Scientific Reports, 10, 6278.</li>
 
 5<li>Chornkrathok, S., <strong>Zhang, D.</strong> and Dera, P.K. (2020), Structure and Behavior of the Ni End-Member Schreibersite Ni<sub>3</sub>P under Compression to 50 GPa. Minerals, 10(4), 306.</li>
 
@@ -340,7 +340,7 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 1<li>Huang, E.-W., Lin, C.-M., Jain, J., Shieh, S.R., Wang, C.-P., Chuang, Y.-C., Liao, Y.-F., <strong>Zhang, D.</strong>, Huang, T., Lam, T.-N., Woo, W. and Lee, S.Y. (2018), 
 		Irreversible Phase Transformation in a CoCrFeMnNi High Entropy Alloy under Hydrostatic Compression, Materials Today Communications, 14, 10-14.</li>
 
-3<li>Hu, Y., Kiefer, B., Bina, C.R., <strong>Zhang, D.</strong> and Dera, P.K. (2017), High-pressure gamma-CaMgSi<sub>2</sub>O<sub>6</sub>: 
+4<li>Hu, Y., Kiefer, B., Bina, C.R., <strong>Zhang, D.</strong> and Dera, P.K. (2017), High-pressure gamma-CaMgSi<sub>2</sub>O<sub>6</sub>: 
 		Does penta-coordinated silicon exist in the Earth's mantle?, Geophysical Research Letters, 44, 11340-11348.</li>
 
 3<li>Qin, F., Wu, X., <strong>Zhang, D.</strong>, Qin, S. and Jacobsen, S.D. (2017), Thermal equation of state of natural Ti-bearing clinohumite, 
