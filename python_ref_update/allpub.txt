@@ -10,7 +10,7 @@
 
 3<li>Liang, L., Zhang, G., Huang, S., Niu, J., <strong>Zhang, D.</strong>, Xu, J., Liang, W. and Qin, S. (2024), High-Pressure Behavior of Ferromagnesite (Mg<sub>0.81</sub>Fe<sub>0.19</sub>)CO<sub>3</sub> by Synchrotron X-Ray Diffraction and Raman Spectroscopy up to 53 GPa. Journal of Earth Science, 35(2), 525-535.</li>
 
-3<li>Qin, F., Wang, F., Smyth, J.R., <strong>Zhang, D.</strong>, Xu, J. and Jacobsen, S.D. (2024), Thermoelastic properties of Fe<sup>3+<sup>-rich jeffbenite and application to superdeep diamond barometry. Geophysical Research Letters, 51(6), e2023GL106908.</li>
+3<li>Qin, F., Wang, F., Smyth, J.R., <strong>Zhang, D.</strong>, Xu, J. and Jacobsen, S.D. (2024), Thermoelastic properties of Fe<sup>3+</sup>-rich jeffbenite and application to superdeep diamond barometry. Geophysical Research Letters, 51(6), e2023GL106908.</li>
 
 1<li>Jose, G.C., Xie, W., Lavina, B., Zhao, J., Alp, E.E., <strong>Zhang, D.</strong> and Bi, W. (2024), Robust magnetism and crystal structure in Dirac semimetal EuMnBi<sub>2</sub> under high pressure. Journal of Physics: Condensed Matter, 36(25), 255802.</li>
 
