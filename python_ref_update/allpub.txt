@@ -20,6 +20,8 @@
 
 3<li>Nguyen, P.Q., <strong>Zhang, D.</strong>, Xu, J., Downs, R.T. and Dera, P.K. (2024), Dehydration kinetics of nanoconfined water in beryl probed by high temperature single crystal synchrotron X-ray diffraction. Scientific Reports, 14(1), 6079.</li>
 
+3<li>Xu, L., Gui, W., Shen, K., <strong>Zhang, D.</strong>, Xu, J. and Liu, J. (2024), Equation of state and structural evolution of manganese dolomite (kutnohorite) under high pressures. American Mineralogist, 109(3), 449-456.</li>
+
 3<li>Berrada, M., Hu, G., Zhou, D., Wang, S., Nguyen, P.Q., <strong>Zhang, D.</strong>, Prakapenka, V., Chariton, S., Chen, B., Li, J. and Nicholas, J.D. (2024), Detection of thin film phase transformations at high-pressure and high-temperature in a diamond anvil cell. Communications Earth & Environment, 5(1), 1-10.</li>
 
 1<li>Yamaguchi, T., Dukhin, A., Ryu, Y.J., <strong>Zhang, D.</strong>, Borodin, O., González, M.A., Yamamuro, O., Price, D.L. and Saboungi, M.L. (2024), Non-Newtonian Dynamics in Water-in-Salt Electrolytes. The Journal of Physical Chemistry Letters, 15, 76-80.</li>
