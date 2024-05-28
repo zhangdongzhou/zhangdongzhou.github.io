@@ -82,6 +82,8 @@
 
 3<li>Nguyen, P.Q., McKenzie, W., <strong>Zhang, D.</strong>, Xu, J., Rapp, R., Bradley, J.P. and Dera, P. (2022), Mechanochemical Synthesis of Nanocrystalline Olivine-Type Mg<sub>2</sub>SiO<sub>4</sub> and MgCoSiO<sub>4</sub>. Crystals, 12(3), 369.</li>
 
+3<li>Yun, S., Hwang, H., Hwang, G., Kim, Y., Blom, D., Vogt, T., Post, J.E., Jeon, T.-Y., Shin, T.J., <strong>Zhang, D.</strong>, Kagi, H. and Lee, Y. (2022), Super-hydration and reduction of manganese oxide minerals at shallow terrestrial depths. Nature Communications, 13, 1942.</li>
+
 5<li><strong>Zhang, D.</strong>, Jackson, J.M., Sturhahn, W., Zhao, J., Alp, E.E. and Hu, M.Y. (2022), Measurements of the Lamb-Mössbauer factor at simultaneous high-pressure-temperature conditions and estimates of the equilibrium isotopic fractionation of iron. American Mineralogist, 107(3), 421-431.</li>
 
 2<li>Xu, J., <strong>Zhang, D.</strong>, Tkachev, S.N. and Dera, P.K. (2022), Partnership for eXtreme Xtallography (PX<sup>2</sup>)—A state-of-the-art experimental facility for extreme-conditions crystallography: A case study of pressure-induced phase transition in natural ilvaite. Matter and Radiation at Extremes, 7(2), 028401.</li>
