@@ -20,7 +20,7 @@
 
 1<li>Wang, Y., Shen, Z., <strong>Zhang, D.</strong>, Wang, L., Tsurkan, V., Prodan, L., Loidl, A., Dumre, B.B. and Khare, S.V. (2024), Pressure-Induced Changes in the Crystal Structure and Electrical Conductivity of GeV<sub>4</sub>S<sub>8</sub>. Chemistry of Materials, 36(7), 3128-3137.</li>
 
-3<li>Zhou, W.Y., Hao, M., Zhang, D., Dera, P., Charin, S. and Zhang, J.S. (2024), High P-T sound velocities of amphiboles: Implications for low-velocity anomalies in metasomatized upper mantle. Geophysical Research Letters, 51(5), e2023GL106583.</li>
+3<li>Zhou, W.Y., Hao, M., <strong>Zhang, D.</strong>, Dera, P., Charin, S. and Zhang, J.S. (2024), High P-T sound velocities of amphiboles: Implications for low-velocity anomalies in metasomatized upper mantle. Geophysical Research Letters, 51(5), e2023GL106583.</li>
 
 3<li>Nguyen, P.Q., <strong>Zhang, D.</strong>, Xu, J., Downs, R.T. and Dera, P.K. (2024), Dehydration kinetics of nanoconfined water in beryl probed by high temperature single crystal synchrotron X-ray diffraction. Scientific Reports, 14(1), 6079.</li>
 
@@ -205,7 +205,7 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 
 3<li>Hao, M., Zhang, J. S., Pierotti, C. E., Zhou, W. Y., <strong>Zhang, D.</strong>, and Dera, P. (2020), The seismically fastest chemical heterogeneity in the Earth's deep upper mantle—implications from the single-crystal thermoelastic properties of jadeite. Earth and Planetary Science Letters, 543, 116345.</li>
 
-4<li>Wang, Y., Xu, M., Yang, L., Yan, B., Qin, Q., Shao, X., Zhang, Y., Huang, D., Lin, X., Lv, J. and <strong>Zhang, D.</strong> (2020), Pressure-stabilized divalent ozonide CaO<sub>3</sub> and its impact on Earth’s oxygen cycles. Nature communications, 11(1), 1-7.</li>
+4<li>Wang, Y., Xu, M., Yang, L., Yan, B., Qin, Q., Shao, X., Zhang, Y., Huang, D., Lin, X., Lv, J., <strong>Zhang, D.</strong>, Guo, H., Mao, H.-K., Chen, C. and Ma, Y. (2020), Pressure-stabilized divalent ozonide CaO<sub>3</sub> and its impact on Earth’s oxygen cycles. Nature communications, 11(1), 1-7.</li>
 
 4<li>Chen, H., Xie, S.Y., Ko, B., Kim, T., Nisr, C., Prakapenka, V., Greenberg, E., <strong>Zhang, D.</strong>, Bi, W., Ercan, A.E. and Lee, Y. (2020), A new hydrous iron oxide phase stable at mid-mantle pressures. Earth and Planetary Science Letters, 550, 116551.</li>
 
