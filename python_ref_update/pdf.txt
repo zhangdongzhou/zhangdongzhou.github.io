@@ -1,3 +1,16 @@
+Zhuang_AM_2025.pdf
+Li_PRB_2025.pdf
+Lv_AM_2025.pdf
+Wang_InorgChem_2025.dpf
+Wang_GRL_2025.pdf
+Wang_AFM_2025.pdf
+Sun_GeoFront_2025.pdf
+Zhang_ACSOmega_2024.pdf
+Yang_CommChem_2024.pdf
+Zhang_CommChem_2024.pdf
+Sereika_PRB_2024.pdf
+Berrada_JGRP_2024.pdf
+Chao_AM_2024.pdf
 Wu_InorgChem_2024.pdf
 Bang_NatComm_2024.pdf
 Hao_GRL_2024.pdf
