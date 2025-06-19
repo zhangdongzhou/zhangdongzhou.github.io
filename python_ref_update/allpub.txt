@@ -2,13 +2,13 @@
 
 3<li><strong>Zhang, D.</strong>, Xu, J., Dera, P.K., Chen, B. and Chen, M. (2025), Equilibrium silicon isotope fractionation in eclogites and granites constrained by single crystal X-ray diffraction and the force constants approach. Geophysical Research Letters, 52(8), e2023GL107954.</li>
 
-5<li>Zhuang, Y., Liu, J., Lv, C., Xu, L., Bi, W., Hu, Q., <strong>Zhang, D.</strong>, Garbarino, G., Zhu, S. and Zhang, Y. (2025), Magnetic collapse and low conductivity of Fe3N in the deep interiors of Earth-like planets. American Mineralogist, 110(4), 506-512.</li>
+5<li>Zhuang, Y., Liu, J., Lv, C., Xu, L., Bi, W., Hu, Q., <strong>Zhang, D.</strong>, Garbarino, G., Zhu, S. and Zhang, Y. (2025), Magnetic collapse and low conductivity of Fe<sub>3</sub>N in the deep interiors of Earth-like planets. American Mineralogist, 110(4), 506-512.</li>
 
-1<li>Li, Z., Huyan, S., Thompson, E.C., Slade, T.J., <strong>Zhang, D.</strong>, Ryu, Y.J., Bi, W., Budko, S.L. and Canfield, P.C. (2025), Superconducting dome and structural changes in LaRu3Si2 under pressure. Physical Review B, 111(14), 144505.</li>
+1<li>Li, Z., Huyan, S., Thompson, E.C., Slade, T.J., <strong>Zhang, D.</strong>, Ryu, Y.J., Bi, W., Budko, S.L. and Canfield, P.C. (2025), Superconducting dome and structural changes in LaRu<sub>3</sub>Si<sub>2</sub> under pressure. Physical Review B, 111(14), 144505.</li>
 
 4<li>Lv, M., Zhu, S., Liu, J., Hu, Y., Zhu, F., Lai, X., <strong>Zhang, D.</strong>, Chen, B., Dera, P., Li, J. and Dorfman, S.M. (2025), Phase transformation of ferric-iron-rich silicate in Earth’s mid-mantle. American Mineralogist, 110(3), 414-421.</li>
 
-3<li>Wang, L., <strong>Zhang, D.</strong>, Ma, M., Zhou, Y., Xu, J., Fan, D. and Zhou, W. (2025), Pressure-Induced Phase Transitions in Bismutotantalite (BiTaO4): Insights from Single-Crystal Diffraction and Raman Spectroscopy. Inorganic Chemistry, 64(11), 5688-5697.</li>
+3<li>Wang, L., <strong>Zhang, D.</strong>, Ma, M., Zhou, Y., Xu, J., Fan, D. and Zhou, W. (2025), Pressure-Induced Phase Transitions in Bismutotantalite (BiTaO<sub>4</sub>): Insights from Single-Crystal Diffraction and Raman Spectroscopy. Inorganic Chemistry, 64(11), 5688-5697.</li>
 
 3<li>Wang, F., Bausch, H.J., Gardner, L.L., <strong>Zhang, D.</strong>, Armstrong, K., Bell, A.S., Zhao, J., Alp, E.E. and Jacobsen, S.D. (2025), Thermoelastic properties of iron-rich ringwoodite and the deep mantle aerotherm of Mars. Geophysical Research Letters, 52(3), e2024GL109666.</li>
 
@@ -16,13 +16,13 @@
 
 3<li>Sun, N., Li, X., Li, L., Zhang, Q., Yu, Y., Mao, Z., Zhou, C. and <strong>Zhang, D.</strong> (2025), Stability and physical properties of brucite at high pressures and temperatures: Implication for Earth’s deep water cycle. Geoscience Frontiers, 16(1), 101940.</li>
 
-3<li>Zhang, X., Li, L., Yu, Y., Zhang, Q., Sun, N., Mao, Z. and <strong>Zhang, D.</strong> (2024), High Pressure–Temperature Study of MgF2, CaF2, and BaF2 by Raman Spectroscopy: Phase Transitions and Vibrational Properties of AF2 Difluorides. ACS omega, 9(22), 23675-23687.</li>
+3<li>Zhang, X., Li, L., Yu, Y., Zhang, Q., Sun, N., Mao, Z. and <strong>Zhang, D.</strong> (2024), High Pressure–Temperature Study of MgF<sub>2</sub>, CaF<sub>2</sub>, and BaF<sub>2</sub> by Raman Spectroscopy: Phase Transitions and Vibrational Properties of AF<sub>2</sub> Difluorides. ACS omega, 9(22), 23675-23687.</li>
 
 1<li>Yang, L., Li, J., <strong>Zhang, D.</strong>, Liu, Y. and Hu, Q. (2024), Deviatoric stress-induced metallization, layer reconstruction and collapse of van der Waals bonded zirconium disulfide. Communications Chemistry, 7(1), 141.</li>
 
-1<li><strong>Zhang, D.</strong>, Mandal, S., Chung, D.Y., Xu, J., Shan, N., Kanatzidis, M.G. and Chen, M. (2024), Pressure induced structural and electronic band transition in CsPbBr3. Communications Chemistry, 7(1), 175.</li>
+1<li><strong>Zhang, D.</strong>, Mandal, S., Chung, D.Y., Xu, J., Shan, N., Kanatzidis, M.G. and Chen, M. (2024), Pressure induced structural and electronic band transition in CsPbBr<sub>3</sub>. Communications Chemistry, 7(1), 175.</li>
 
-1<li>Sereika, R., Jose, G.C., Huang, S., Jin, R., Shelton, W.A., Xie, W., Zhao, J., Lavina, B., Alp, E.E., Xiao, Y. and <strong>Zhang, D.</strong> (2024), Continuous pressure-induced valence and magnetic transitions in EuMnSb2. Physical Review B, 110(7), 075127.</li>
+1<li>Sereika, R., Jose, G.C., Huang, S., Jin, R., Shelton, W.A., Xie, W., Zhao, J., Lavina, B., Alp, E.E., Xiao, Y. and <strong>Zhang, D.</strong> (2024), Continuous pressure-induced valence and magnetic transitions in EuMnSb<sub>2</sub>. Physical Review B, 110(7), 075127.</li>
 
 5<li>Berrada, M., Chen, B., Chao, K.H., Peckenpaugh, J., Wang, S., <strong>Zhang, D.</strong>, Nguyen, P. and Li, J. (2024), Phase transitions and thermal equation of state of Fe-9wt.% Si applied to the Moon and Mercury. Journal of Geophysical Research: Planets, 129(11), e2024JE008466.</li>
 
