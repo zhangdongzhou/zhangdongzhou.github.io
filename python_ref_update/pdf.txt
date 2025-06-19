@@ -3,7 +3,7 @@ Zhang_GRL_2025.pdf
 Zhuang_AM_2025.pdf
 Li_PRB_2025.pdf
 Lv_AM_2025.pdf
-Wang_InorgChem_2025.dpf
+Wang_InorgChem_2025.pdf
 Wang_GRL_2025.pdf
 Wang_AFM_2025.pdf
 Sun_GeoFront_2025.pdf
