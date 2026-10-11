@@ -1,3 +1,57 @@
+3<li>Zhao, W., Xu, J., <strong>Zhang, D.</strong>, Zhong, Q., Zhang, S., Wang, K., Zhou, W. and Fan, D. (2026), Pressure-induced phase transitions in rhodonite and related chain silicates. American Mineralogist, 111(5), 782-795.</li>
+
+3<li>Zhong, Q., Xu, J., Zhao, W., <strong>Zhang, D.</strong>, Zhang, S., Wang, K., Fu, B., Zhou, W. and Fan, D. (2026), From hydroxylbastnäsite to bastnäsite: A crystal chemistry perspective of the incomplete solid solution. American Mineralogist, 111(6), 961-974.</li>
+
+3<li>Yu, Y., Zhang, X., <strong>Zhang, D.</strong>, Li, L., Mao, Z., Sun, N., Wang, D., Li, J., Zhao, C., Qian, C., Wei, Y., Li, X., Wang, Y. and Ishii, T. (2026), Davemaoite elasticity reveals slab-induced heterogeneity in the mantle transition zone. Geophysical Research Letters, 53(2), e2025GL118147.</li>
+
+3<li>Xu, J., Zhong, Q., Zhao, W., <strong>Zhang, D.</strong>, Zhou, L., Zhou, Y., Zhang, W., Zhou, W. and Fan, D. (2026), Crystallization of REE phases within La-Na-(Ca)-Cl-(F)-CHO systems. Chemical Geology, 123255.</li>
+
+3<li><strong>Zhang, D.</strong>, Chen, M. and Chen, B. (2026), Si isotope fractionation in metamorphic rocks from cryogenic temperature crystallographic data and quantum phonon model. Journal of Geophysical Research: Solid Earth, 131(2), e2025JB032675.</li>
+
+4<li>Li, L., Ishii, T., Ryu, Y.J., <strong>Zhang, D.</strong>, Chariton, S., Prakapenka, V.B. and Lin, J.-F. (2026), Sound velocities of FeO-bearing ringwoodite and majorite: Implication for Martian mantle seismic profiles. Geophysical Research Letters, 53(3), e2025GL118991.</li>
+
+1<li>Tsai, Y.-J., Jian, S.-R., Gospodinov, M.M., Marinova, V., Dimitrov, D.Z., <strong>Zhang, D.</strong>, Chuang, Y.-C., Chen, Y.-Y., Ou, M.-N., Juang, J.-Y. and Lin, C.-M. (2026), Pressure-Driven Electronic Topology and Structural Phase Transitions in Bi<sub>2</sub>Te<sub>2.1</sub>Se<sub>0.9</sub>. Journal of Physics and Chemistry of Solids, 113604.</li>
+
+3<li>Zhao, B., Yoshino, T., Chen, Q., Yu, T., <strong>Zhang, D.</strong>, Chen, B. and Wang, Y. (2026), Electrical conductivity of amorphous and molten CaCO<sub>3</sub> at high pressures and its implications for mantle conductivity anomalies. Geophysical Research Letters, 53(5), e2025GL119568.</li>
+
+3<li>Ye, Z., Xu, J., <strong>Zhang, D.</strong>, Liu, W., Zhou, W. and Fan, D. (2026), Equation of state and structural variations of synthetic forsterite-fayalite solid solution by single-crystal X-ray diffraction. Physics and Chemistry of Minerals, 53(2), 12.</li>
+
+3<li>Chen, Q., Lundstrom, C., Li, Y., Ryu, Y.J., Yu, T., Chariton, S., <strong>Zhang, D.</strong>, Prakapenka, V. and Wang, Y. (2026), Viscosity and structure of hydrous silicate liquids: Constraints on oceanic hydrothermal circulation. Earth and Planetary Science Letters, 686, 120059.</li>
+
+1<li>Wang, Y., Wu, Z., KC, B., <strong>Zhang, D.</strong>, Wang, L., Khare, S.V., Prodan, L. and Tsurkan, V. (2026), Pressure-induced electronic delocalization and superconductivity in GaNb<sub>4</sub>Se<sub>8</sub>. Physical Review B, 114(17), 175107.</li>
+
+1<li>Huyan, S., Penacchio, R.F.S., Wang, L.-L., Schmidt, J., <strong>Zhang, D.</strong>, Lavina, B., Li, Z., Ribeiro, R.A., Slade, T.J., Zhao, J., Morelhão, S.L., Canfield, P.C. and Bud'ko, S.L. (2026), The observation of bulk superconductivity in Rhombohedral ReO<sub>3</sub> under pressure. Materials Today Physics, 102206.</li>
+
+2<li>Zhou, C., Lavina, B., Toellner, T.S., Prakapenka, V.B., Chariton, S., <strong>Zhang, D.</strong>, Rivers, M.L., Sturhahn, W., Jackson, J.M. and Zhao, J. (2026), A laser heating diamond anvil cell system for high-pressure nuclear resonant scattering at 3-ID, APS. Review of Scientific Instruments, 97(9), 093901.</li>
+
+1<li>Huyan, S., Penacchio, R.F.S., <strong>Zhang, D.</strong>, Li, Z., Morelhão, S.L., Ribeiro, R.A., Canfield, P.C. and Bud'ko, S.L. (2026), Laser-heated diamond anvil cell synthesis and recovery of metastable MnSb<sub>2</sub> and YbZn<sub>2</sub> for post-synthesis transport studies. APL Materials, 14(7), 071109.</li>
+
+1<li>Chen, B., Gu, Y., Wang, D., Shao, D., Deng, W., Han, X., Jin, M., Song, J., Zeng, Y., Ishii, H., Liao, Y.-F., <strong>Zhang, D.</strong>, Zhang, J., Long, Y., Zhu, J., Yang, L., Xiao, H., Nie, J.-C., Shi, Y., Jin, C., Hu, J., Mao, H.-K. and Ding, Y. (2026), Pressure-Induced 18 K Superconductivity and Two Superconducting Phases in CuIr<sub>2</sub>S<sub>4</sub>. Physical Review Letters, 136(9), 096505.</li>
+
+5<li>Zhou, C., Dobrosavljevic, V.V., <strong>Zhang, D.</strong>, Sturhahn, W., Zhao, J., Toellner, T.S., Chariton, S., Prakapenka, V.B. and Jackson, J.M. (2026), Solidus and phase relations of Fe<sub>0.8</sub>Ni<sub>0.1</sub>Si<sub>0.1</sub> at Earth's core conditions. Journal of Geophysical Research: Solid Earth, 131(8), e2026JB034060.</li>
+
+1<li>Wilson, B., Huyan, S., Schmidt, J., Sapkota, A., <strong>Zhang, D.</strong>, Bud'ko, S.L., Canfield, P.C. and Bi, W. (2026), Coupled structural collapse and evolution of magnetic phases in Sr(Co<sub>0.88</sub>Ni<sub>0.12</sub>)<sub>2</sub>P<sub>2</sub> under pressure. Journal of Physics: Condensed Matter.</li>
+
+1<li>Yang, L., Lau, K.C., Zeng, Z., <strong>Zhang, D.</strong>, Tang, H., Yan, B., Niu, G., Gou, H., Yang, Y., Yang, W., Luo, D. and Mao, H.-K. (2025), Synthesis of bulk hexagonal diamond. Nature, 644(8076), 370-375.</li>
+
+4<li>Zhou, W.-Y., Hao, M., Su, W., Kim, T., Chen, S., Shim, S.-H., <strong>Zhang, D.</strong>, Nguyen, P.Q.H., Armstrong, K. and Zhang, J.S. (2025), Elasticity of davemaoite as a primary contributor to lower-mantle heterogeneities. Science, 390(6776), 935-939.</li>
+
+1<li>Zhang, Y., Niu, J., Zhang, H., Zhu, F., Chen, B., Wu, X., Shen, A.H., <strong>Zhang, D.</strong> and Lai, X. (2025), HPHT Synthesis and Compressibility of Hydrogen-Terminated Nanodiamonds. Inorganic Chemistry, 64(38), 19164-19170.</li>
+
+3<li>Zhong, Q., Xu, J., <strong>Zhang, D.</strong>, Zhang, S., Wu, M., Gu, H., Zhou, Y. and Fan, D. (2025), Structural mechanisms of pressure-induced isosymmetric second-order phase transitions. American Mineralogist, 110(7), 1072-1081.</li>
+
+1<li>Guan, J., Wang, B., Li, N., Peng, S., Zhang, G., Yan, L., Liu, X., Zhang, K., Li, M., N-Diaye, A., Kong, Q., <strong>Zhang, D.</strong>, Zhao, X., Liu, T., Bu, K., Mao, Y., Wang, G., Lü, X., Li, X., Zeng, T. and Yang, W. (2025), Order-Disorder Phase Stabilization by Pressure-Induced Charge Transfer Enhances the Ferroelectric Photovoltaic Effect in Multiferroic BaFe<sub>4</sub>O<sub>7</sub>. Advanced Science, 12(42), e11022.</li>
+
+4<li>Yu, Y., Zhang, Y., Li, L., Zhang, X., Wang, D., Mao, Z., Sun, N., Zhang, Y., Li, X., Li, W., Speziale, S., <strong>Zhang, D.</strong>, Lin, J.-F. and Yoshino, T. (2025), Unraveling the complex features of the seismic scatterers in the mid-lower mantle through phase transition of (Al, H)-bearing stishovite. Geophysical Research Letters, 52(14), e2024GL114146.</li>
+
+4<li>Berrada, M., Chao, K.-H., Wang, S., <strong>Zhang, D.</strong>, Prakapenka, V., Chariton, S., Ryu, Y.J. and Chen, B. (2025), Elevated melting temperature and superionic transition of H<sub>2</sub>O ice. The Innovation Geoscience, 3(3), 100154.</li>
+
+1<li>Dunning, S.G., Hari, A., Zhu, L., Chen, B., Cody, G.D., Romi, S., <strong>Zhang, D.</strong> and Strobel, T.A. (2025), Double-core nanothread formation from α-furil via a pressure-induced planarization pathway. Chemical Science, 16(9), 4144-4151.</li>
+
+3<li>Huang, S., Xu, J., <strong>Zhang, D.</strong>, Zhang, S., Liu, Y., Liang, Y., Li, Z., Zhou, W. and Fan, D. (2025), Pressure-temperature stability and equation of state of staurolite: Implications for the water transport during cold slab subduction. Lithos, 108361.</li>
+
+1<li>Ambos, S.D., Manganaro, N.S., Decapua, M., <strong>Zhang, D.</strong>, Nguyen, P.Q.H., Yan, J. and Walsh, J.P.S. (2025), Fragmenting the Kagomé Lattice: Pressure-Tuned Anisotropy of Cu<sup>2+</sup> Triangles in a Novel Atacamite Relative CaCu(OH)<sub>3</sub>Cl. The Journal of Physical Chemistry C, 129(8), 4226-4232.</li>
+
 3<li>Xie, T., Shieh, S.R., Chariton, S., van Zyl, M., Rodriguez, R.D., Prakapenka, V.B. and <strong>Zhang, D.</strong> (2025), Plagioclase under compression: A path to diaplectic glass and maskelynite. Science Advances, 11(25), eadv8231.</li>
 
 3<li>Gajda, R., Chodkiewicz, M., <strong>Zhang, D.</strong>, Nguyen, P., Prakapenka, V. and Wozniak, K. (2025), Structure of ice VII with Hirshfeld atom refinement. IUCrJ, 12(3), 288-294.</li>
