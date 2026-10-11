@@ -30,7 +30,7 @@
 
 5<li>Zhou, C., Dobrosavljevic, V.V., <strong>Zhang, D.</strong>, Sturhahn, W., Zhao, J., Toellner, T.S., Chariton, S., Prakapenka, V.B. and Jackson, J.M. (2026), Solidus and phase relations of Fe<sub>0.8</sub>Ni<sub>0.1</sub>Si<sub>0.1</sub> at Earth's core conditions. Journal of Geophysical Research: Solid Earth, 131(8), e2026JB034060.</li>
 
-1<li>Wilson, B., Huyan, S., Schmidt, J., Sapkota, A., <strong>Zhang, D.</strong>, Bud'ko, S.L., Canfield, P.C. and Bi, W. (2026), Coupled structural collapse and evolution of magnetic phases in Sr(Co<sub>0.88</sub>Ni<sub>0.12</sub>)<sub>2</sub>P<sub>2</sub> under pressure. Journal of Physics: Condensed Matter, 38, 39544.</li>
+1<li>Wilson, B., Huyan, S., Schmidt, J., Sapkota, A., <strong>Zhang, D.</strong>, Bud'ko, S.L., Canfield, P.C. and Bi, W. (2026), Coupled structural collapse and evolution of magnetic phases in Sr(Co<sub>0.88</sub>Ni<sub>0.12</sub>)<sub>2</sub>P<sub>2</sub> under pressure. Journal of Physics: Condensed Matter, 38, 395404.</li>
 
 1<li>Yang, L., Lau, K.C., Zeng, Z., <strong>Zhang, D.</strong>, Tang, H., Yan, B., Niu, G., Gou, H., Yang, Y., Yang, W., Luo, D. and Mao, H.-K. (2025), Synthesis of bulk hexagonal diamond. Nature, 644(8076), 370-375.</li>
 
