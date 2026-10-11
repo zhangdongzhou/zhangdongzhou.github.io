@@ -8,6 +8,7 @@ Wang_InorgChem_2025.pdf
 Wang_GRL_2025.pdf
 Wang_AFM_2025.pdf
 Sun_GeoFront_2025.pdf
+Lin_APL_2024.pdf
 Zhang_ACSOmega_2024.pdf
 Yang_CommChem_2024.pdf
 Zhang_CommChem_2024.pdf

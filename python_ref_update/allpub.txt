@@ -18,6 +18,8 @@
 
 3<li>Sun, N., Li, X., Li, L., Zhang, Q., Yu, Y., Mao, Z., Zhou, C. and <strong>Zhang, D.</strong> (2025), Stability and physical properties of brucite at high pressures and temperatures: Implication for Earth’s deep water cycle. Geoscience Frontiers, 16(1), 101940.</li>
 
+1<li>Lin, C.-M., Lin, D.-Y., Juang, J.-Y., Huang, T., <strong>Zhang, D.</strong>, Tsai, Y.-J., Jian, S.-R., Kim, J.-S. and Lin, J.-F. (2024), Early-onset of pressure-induced metallization in iron-doped multilayered molybdenum disulfide. Applied Physics Letters, 124(15).</li>
+
 3<li>Zhang, X., Li, L., Yu, Y., Zhang, Q., Sun, N., Mao, Z. and <strong>Zhang, D.</strong> (2024), High Pressure–Temperature Study of MgF<sub>2</sub>, CaF<sub>2</sub>, and BaF<sub>2</sub> by Raman Spectroscopy: Phase Transitions and Vibrational Properties of AF<sub>2</sub> Difluorides. ACS omega, 9(22), 23675-23687.</li>
 
 1<li>Yang, L., Li, J., <strong>Zhang, D.</strong>, Liu, Y. and Hu, Q. (2024), Deviatoric stress-induced metallization, layer reconstruction and collapse of van der Waals bonded zirconium disulfide. Communications Chemistry, 7(1), 141.</li>
