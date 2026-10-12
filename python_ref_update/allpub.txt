@@ -26,7 +26,7 @@
 
 1<li>Huyan, S., Penacchio, R.F.S., <strong>Zhang, D.</strong>, Li, Z., Morelhão, S.L., Ribeiro, R.A., Canfield, P.C. and Bud'ko, S.L. (2026), Laser-heated diamond anvil cell synthesis and recovery of metastable MnSb<sub>2</sub> and YbZn<sub>2</sub> for post-synthesis transport studies. APL Materials, 14(7), 071109.</li>
 
-1<li>Chen, B., Gu, Y., Wang, D., Shao, D., Deng, W., Han, X., Jin, M., Song, J., Zeng, Y., Ishii, H., Liao, Y.-F., <strong>Zhang, D.</strong>, Zhang, J., Long, Y., Zhu, J., Yang, L., Xiao, H., Nie, J.-C., Shi, Y., Jin, C., Hu, J., Mao, H.-K. and Ding, Y. (2026), Pressure-Induced 18 K Superconductivity and Two Superconducting Phases in CuIr<sub>2</sub>S<sub>4</sub>. Physical Review Letters, 136(9), 096505.</li>
+1<li>Chen, B., Gu, Y., Wang, D., Shao, D., Deng, W., Han, X., Jin, M., Jin, S., Zeng, Y., Ishii, H., Liao, Y.-F., <strong>Zhang, D.</strong>, Zhang, J., Long, Y., Zhu, J., Yang, L., Xiao, H., Nie, J.-C., Shi, Y., Jin, C., Hu, J., Mao, H.-K. and Ding, Y. (2026), Pressure-Induced 18 K Superconductivity and Two Superconducting Phases in CuIr<sub>2</sub>S<sub>4</sub>. Physical Review Letters, 136(9), 096505.</li>
 
 5<li>Zhou, C., Dobrosavljevic, V.V., <strong>Zhang, D.</strong>, Sturhahn, W., Zhao, J., Toellner, T.S., Chariton, S., Prakapenka, V.B. and Jackson, J.M. (2026), Solidus and phase relations of Fe<sub>0.8</sub>Ni<sub>0.1</sub>Si<sub>0.1</sub> at Earth's core conditions. Journal of Geophysical Research: Solid Earth, 131(8), e2026JB034060.</li>
 
@@ -80,7 +80,7 @@
 
 1<li><strong>Zhang, D.</strong>, Mandal, S., Chung, D.Y., Xu, J., Shan, N., Kanatzidis, M.G. and Chen, M. (2024), Pressure induced structural and electronic band transition in CsPbBr<sub>3</sub>. Communications Chemistry, 7(1), 175.</li>
 
-1<li>Sereika, R., Jose, G.C., Huang, S., Jin, R., Shelton, W.A., Xie, W., Zhao, J., Lavina, B., Alp, E.E., Xiao, Y. and <strong>Zhang, D.</strong> (2024), Continuous pressure-induced valence and magnetic transitions in EuMnSb<sub>2</sub>. Physical Review B, 110(7), 075127.</li>
+1<li>Sereika, R., Jose, G.C., Huang, S., Jin, R., Shelton, W.A., Xie, W., Zhao, J., Lavina, B., Alp, E.E., Xiao, Y., <strong>Zhang, D.</strong>, Vohra, Y.K. and Bi, W. (2024), Continuous pressure-induced valence and magnetic transitions in EuMnSb<sub>2</sub>. Physical Review B, 110(7), 075127.</li>
 
 5<li>Berrada, M., Chen, B., Chao, K.H., Peckenpaugh, J., Wang, S., <strong>Zhang, D.</strong>, Nguyen, P. and Li, J. (2024), Phase transitions and thermal equation of state of Fe-9wt.% Si applied to the Moon and Mercury. Journal of Geophysical Research: Planets, 129(11), e2024JE008466.</li>
 
@@ -92,7 +92,7 @@
 
 3<li>Hao, M., Zhou, W.Y., Dera, P., Schmandt, B., <strong>Zhang, D.</strong> and Zhang, J.S. (2024), Fast seismic anomalies under continents explained by the delaminated lower continental crust-Implications from high pressure-temperature elasticity of jadeite. Geophysical Research Letters, 51(9), e2023GL104797.</li>
 
-1<li>Manganaro, N.S., Ambos, S.D., DeCapua, M., Thiel, S.D., Mitchell, W.E., Liu, Z., <strong>Zhang, D.</strong>, Nguyen, P.Q., Lavina, B., Alp, E.E. and Yan, J. (2024), High-Pressure Polymorphism in Silver Ferrite Delafossite, AgFeO<sub>2</sub>. Inorganic Chemistry. 63(21), 9763-9770.</li>
+1<li>Manganaro, N.S., Ambos, S.D., DeCapua, M., Thiel, S.D., Mitchell, W.E., Liu, Z., <strong>Zhang, D.</strong>, Nguyen, P.Q., Lavina, B., Alp, E.E., Yan, J. and Walsh, J.P.S. (2024), High-Pressure Polymorphism in Silver Ferrite Delafossite, AgFeO<sub>2</sub>. Inorganic Chemistry. 63(21), 9763-9770.</li>
 
 1<li>Yan, L., Bu, K., Li, Z., Zhang, Z., Xia, W., Li, M., Li, N., Guan, J., Liu, X., Ning, J., <strong>Zhang, D.</strong>, Guo, Y., Wang, X. and Yang, W. (2024), Double Superconducting Dome of Quasi Two-Dimensional TaS<sub>2</sub> in Non-Centrosymmetric van der Waals Heterostructure. Nano Letters. 24(20), 6002-6009.</li>
 
@@ -128,13 +128,13 @@
 
 4<li>Ye, Z., Xu, J., Fan, D., <strong>Zhang, D.</strong>, Zhou, W. and Xie, H. (2023), Amorphous Mn<sub>2</sub>SiO<sub>4</sub>: A potential manganese phase in the stagnant slab. American Mineralogist, 108(11), 2121-2130.</li>
 
-1<li>Mao, Y., Guo, S., Huang, X., Bu, K., Li, Z., Nguyen, P.Q., Liu, G., Hu, Q., <strong>Zhang, D.</strong>, Fu, Y., Yang, W. and Lv, X. (2023), Pressure-Modulated Anomalous Organic–Inorganic Interactions Enhance Structural Distortion and Second-Harmonic Generation in MHyPbBr<sub>3</sub> Perovskite. Journal of the American Chemical Society, 145(43), 23842-23848.</li>
+1<li>Mao, Y., Guo, S., Huang, X., Bu, K., Li, Z., Nguyen, P.Q., Liu, G., Hu, Q., <strong>Zhang, D.</strong>, Fu, Y., Yang, W. and Lü, X. (2023), Pressure-Modulated Anomalous Organic–Inorganic Interactions Enhance Structural Distortion and Second-Harmonic Generation in MHyPbBr<sub>3</sub> Perovskite. Journal of the American Chemical Society, 145(43), 23842-23848.</li>
 
 3<li>Lee, S., Cai, J., Jin, S., Konishi, H., <strong>Zhang, D.</strong>, Barnard, A.S., Thevamaran, R. and Xu, H. (2023), Investigation on Shock Metamorphism of Anatase by Supersonic Microprojectile Impact. ACS Earth and Space Chemistry, 7(10), 1905-1915.</li>
 
 3<li>Wang, F., Thompson, E.C., <strong>Zhang, D.</strong>, Xu, J., Alp, E.E. and Jacobsen, S.D. (2023), Hydrous wadsleyite crystal structure up to 32 GPa. American Mineralogist, 108(10), 1948-1956.</li>
 
-1<li>Luo, H., Bu, K., Yin, Y., Wang, D., Shi, C., Guo, S., Fu, T., Liang, J., Liu, B., <strong>Zhang, D.</strong>, Xu, L.J., Hu, Q., Ding, Y., Jin, S., Yang, W., Ma, B. and Lv, X. (2023), Anomalous Charge Transfer from Organic Ligands to Metal Halides in Zero-Dimensional [(C<sub>6</sub>H<sub>5</sub>)<sub>4</sub>P]<sub>2</sub>SbCl<sub>5</sub> Enabled by Pressure-Induced Lone Pair-π Interaction. Angewandte Chemie International Edition, 62(37), e202304494.</li>
+1<li>Luo, H., Bu, K., Yin, Y., Wang, D., Shi, C., Guo, S., Fu, T., Liang, J., Liu, B., <strong>Zhang, D.</strong>, Xu, L.J., Hu, Q., Ding, Y., Jin, S., Yang, W., Ma, B. and Lü, X. (2023), Anomalous Charge Transfer from Organic Ligands to Metal Halides in Zero-Dimensional [(C<sub>6</sub>H<sub>5</sub>)<sub>4</sub>P]<sub>2</sub>SbCl<sub>5</sub> Enabled by Pressure-Induced Lone Pair-π Interaction. Angewandte Chemie International Edition, 62(37), e202304494.</li>
 
 3<li>Lai, X., Zhu, F., <strong>Zhang, D.</strong>, Tkachev, S., Prakapenka, V.B., Chao, K.H. and Chen, B. (2023), Thermal equation of state of ice-VII revisited by single-crystal X-ray diffraction. American Mineralogist, 108(8), 1530-1537.</li>
 
@@ -156,11 +156,11 @@
 
 3<li>Rucks, M.J., Finkelstein, G.J., <strong>Zhang, D.</strong>, Dera, P.K. and Duffy, T.S. (2023), Single-crystal X-ray diffraction of fluorapatite to 61 GPa. American Mineralogist, 108(4), 731-737.</li>
 
-4<li>Lorenzon, S., Wenz, M., Nimis, P., Jacobsen, S.D., Pasqualetto, L., Pamato, M.G., Novella, D., <strong>Zhang, D.</strong>, Anzolini, C., Regier, M. and Stachel, T. (2023), Dual origin of ferropericlase inclusions within super-deep diamonds. Earth and Planetary Science Letters, 608, 118081.</li>
+4<li>Lorenzon, S., Wenz, M., Nimis, P., Jacobsen, S.D., Pasqualetto, L., Pamato, M.G., Novella, D., <strong>Zhang, D.</strong>, Anzolini, C., Regier, M., Stachel, T., Pearson, D.G., Harris, J.W. and Nestola, F. (2023), Dual origin of ferropericlase inclusions within super-deep diamonds. Earth and Planetary Science Letters, 608, 118081.</li>
 
 1<li>Yan, L., Ding, C., Li, M., Tang, R., Chen, W., Liu, B., Bu, K., Huang, T., Dai, D., Jin, X., Yang, X., Cheng, E., Li, N., Zhang, Q., Liu, F., Liu, X., <strong>Zhang, D.</strong>, Ma, S., Tao, Q., Zhu, P., Li, S., Lu, X., Sun, J., Wang, X. and Yang, W. (2023), Modulating charge-density wave order and superconductivity from two alternative stacked monolayers in a bulk 4<em>Hb</em>-TaSe<sub>2</sub> heterostructure via Pressure. Nano Letters. 23(6), 2121-2128.</li>
 
-1<li>Liu, F., Hao, Y., Ni, J., Zhao, Y., <strong>Zhang, D.</strong>, Fabbris, G., Haske, D., Cheng, S., Xu, X., Yin, L. and Xiang, H. (2023), Pressure-induced charge orders and their coupling to magnetism in hexagonal multiferroic LuFe<sub>2</sub>O<sub>4</sub>. npj Quantum Materials, 8, 1.</li>
+1<li>Liu, F., Hao, Y., Ni, J., Zhao, Y., <strong>Zhang, D.</strong>, Fabbris, G., Haske, D., Cheng, S., Xu, X., Yin, L., Xiang, H., Zhao, J., Lü, X., Wang, W., Shen, J. and Yang, W. (2023), Pressure-induced charge orders and their coupling to magnetism in hexagonal multiferroic LuFe<sub>2</sub>O<sub>4</sub>. npj Quantum Materials, 8, 1.</li>
 
 1<li>Dunning, S.G., Chen, B., Zhu, L., Cody, G.D., Chariton, S., Prakapenka, V.B., <strong>Zhang, D.</strong> and Strobel, T.A. (2023), Synthesis and Post-Processing of Chemically Homogeneous Nanothreads from 2, 5-Furandicarboxylic Acid. Angewandte Chemie International Edition, 62(14), e202217023.</li>
 
@@ -176,7 +176,7 @@
 
 3<li>Xu, J., Fan, D., Li, B., Tkachev, S.N., <strong>Zhang, D.</strong>, Yang, G., Zhou, Y., Song, J. and Zhou, W. (2022), Thermal equation of state of Cr-pyrope: implications for entrapment pressure of Cr-pyrope inclusion in diamond. Contributions to Mineralogy and Petrology, 177(7), 69.</li>
 
-1<li>Li, Q., Cheng, H., Xing, C., Guo, S., Wu, X., Zhang, L., <strong>Zhang, D.</strong>, Liu, X., Wen, X., Lü, X. and Zhang, H. (2022), Pressure-Induced Amorphization and Crystallization of Heterophase Pd Nanostructures. Small, 18(17), 2106396.</li>
+1<li>Li, Q., Cheng, H., Xing, C., Guo, S., Wu, X., Zhang, L., <strong>Zhang, D.</strong>, Liu, X., Wen, X., Lü, X., Zhang, H. and Quan, Z. (2022), Pressure-Induced Amorphization and Crystallization of Heterophase Pd Nanostructures. Small, 18(17), 2106396.</li>
 
 3<li>Xu, J., Fan, D., Li, B., Tkachev, S.N., Prakapenka, V.B., <strong>Zhang, D.</strong>, Yang, G., Zhou, Y. and Zhou, W. (2022), High-Pressure and High-Temperature Single-Crystal Elasticity of Cr-Pyrope: Implications for the Density and Seismic Velocity of Subcontinental Lithospheric Mantle. Geochemistry, Geophysics, Geosystems, 23(8), e2022GC010393.</li>
 
@@ -184,7 +184,7 @@
 
 3<li>Shargh, A.K., Picard, A., Hrubiak, R., <strong>Zhang, D.</strong>, Hemley, R.J., Deemyad, S., Abdolrahim, N. and Saffarian, S. (2022), Coexistence of vitreous and crystalline phases of H<sub>2</sub>O at ambient temperature. Proceedings of the National Academy of Sciences, 119(27), e2117281119.</li>
 
-2<li>Sutton, S.R., Rivers, M.L., Chariton, S., Eng, P.J., Lanzirotti, A., Newville, M., Officer, T. Prakapanka, V.B., Ryu, Y.J., Stubbs, J.E., Tkachev, S., Wang, Y., Wanhala, A., Xu, J., Xu, M., Yu, T., and <strong>Zhang, D.</strong> (2022), GeoSoilEnviroCARS (Sector 13) at the Advanced Photon Source: a comprehensive synchrotron radiation facility for Earth science research at ambient and extreme conditions. Physics and Chemistry of Minerals, 49, 32.</li>
+2<li>Sutton, S.R., Rivers, M.L., Chariton, S., Eng, P.J., Lanzirotti, A., Newville, M., Officer, T., Prakapanka, V.B., Ryu, Y.J., Stubbs, J.E., Tkachev, S., Wang, Y., Wanhala, A., Xu, J., Xu, M., Yu, T., and <strong>Zhang, D.</strong> (2022), GeoSoilEnviroCARS (Sector 13) at the Advanced Photon Source: a comprehensive synchrotron radiation facility for Earth science research at ambient and extreme conditions. Physics and Chemistry of Minerals, 49, 32.</li>
 
 2<li><strong>Zhang, D.</strong>, Xu, J., Dera, P.K., Rivers, M.L., Eng, P.J., Prakapenka, V.B. and Stubbs, J.E. (2022), Recent developments on high-pressure single-crystal X-ray diffraction at the Partnership for eXtreme Xtallography (PX2) program. Physics and Chemistry of Minerals, 49, 19.</li>
 
@@ -234,7 +234,7 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 
 3<li>Qin, F., <strong>Zhang, D.</strong>, and Qin, S. (2021), High Pressure Behaviors and a Novel High-Pressure Phase of Cuprous Oxide Cu<sub>2</sub>O. Frontiers in Earth Science, 9, 740685.</li>
 
-1<li>Lü, X., Stoumpos, C., Hu, Q., Ma, X., <strong>Zhang, D.</strong>, Guo, S., Hoffman, J., Bu, K., Guo, X., Wang, Y., and Ji, C. (2021), Regulating off-centering distortion maximizes photoluminescence in halide perovskites. National Science Review, 8(9), nwaa288.</li>
+1<li>Lü, X., Stoumpos, C., Hu, Q., Ma, X., <strong>Zhang, D.</strong>, Guo, S., Hoffman, J., Bu, K., Guo, X., Wang, Y., Ji, C., Chen, H., Xu, H., Jia, Q., Yang, W., Kanatzidis, M.G. and Mao, H.-K. (2021), Regulating off-centering distortion maximizes photoluminescence in halide perovskites. National Science Review, 8(9), nwaa288.</li>
 
 5<li>Huang, S., Wu, X., Zhu, F., Lai, X., Li, J., Neill, O.K., Qin, S., Rapp, R., <strong>Zhang, D.</strong>, Dera, P., Chariton, S., Prakapenka, V.B., and Chen, B. (2021), High-pressure phase stability and thermoelastic properties of iron carbonitrides and nitrogen in the deep earth. Journal of Geophysical Research: Solid Earth, 126, e2021JB021934.</li>
 
@@ -289,7 +289,7 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 
 1<li>Bi, X., Wang, R., Yuan, Y., <strong>Zhang, D.</strong>, Zhang, T., Ma, L., Wu, T., Shahbazian-Yassar, R., Amine, K. and Lu, J. (2020), From Sodium-Oxygen to Sodium-Air Battery: Enabled by Sodium Peroxide Dihydrate. Nano Letters, 20(6), 4681-4686.</li>
 
-1<li>Cai, W., Lin, W., Yan, Y., Hilleke, K.P., Coles, J., Bao, J.K., Xu, J., <strong>Zhang, D.</strong>, Chung, D.Y., Kanatzidis, M.G. and Zurek, E. (2020), Pressure-Induced Superconductivity in the Wide-Band-Gap Semiconductor Cu<sub>2</sub>Br<sub>2</sub>Se<sub>6</sub> with a Robust Framework. Chemistry of Materials, 32(14), 6237-6246.</li>
+1<li>Cai, W., Lin, W., Yan, Y., Hilleke, K.P., Coles, J., Bao, J.K., Xu, J., <strong>Zhang, D.</strong>, Chung, D.Y., Kanatzidis, M.G., Zurek, E. and Deemyad, S. (2020), Pressure-Induced Superconductivity in the Wide-Band-Gap Semiconductor Cu<sub>2</sub>Br<sub>2</sub>Se<sub>6</sub> with a Robust Framework. Chemistry of Materials, 32(14), 6237-6246.</li>
 
 3<li>Hao, M., Zhang, J. S., Pierotti, C. E., Zhou, W. Y., <strong>Zhang, D.</strong>, and Dera, P. (2020), The seismically fastest chemical heterogeneity in the Earth's deep upper mantle—implications from the single-crystal thermoelastic properties of jadeite. Earth and Planetary Science Letters, 543, 116345.</li>
 
@@ -297,7 +297,7 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 
 4<li>Chen, H., Xie, S.Y., Ko, B., Kim, T., Nisr, C., Prakapenka, V., Greenberg, E., <strong>Zhang, D.</strong>, Bi, W., Ercan, A.E. and Lee, Y. (2020), A new hydrous iron oxide phase stable at mid-mantle pressures. Earth and Planetary Science Letters, 550, 116551.</li>
 
-4<li>Wang, C.-P., Shieh, S.R., Withers, A.C., Liu, X., <strong>Zhang, D.</strong>, Tkachev, S.N., Djirar, A.-E., Xie, T., and Rumney J.D. (2020), Raman and X-ray diffraction study of pressure-induced phase transition in synthetic Mg<sub>2</sub>TiO<sub>4</sub>. Scientific Reports, 10, 6278.</li>
+4<li>Wang, C.-P., Shieh, S.R., Withers, A.C., Liu, X., <strong>Zhang, D.</strong>, Tkachev, S.N., Djirar, A.-E., Xie, T., and Rumney, J.D. (2020), Raman and X-ray diffraction study of pressure-induced phase transition in synthetic Mg<sub>2</sub>TiO<sub>4</sub>. Scientific Reports, 10, 6278.</li>
 
 5<li>Chornkrathok, S., <strong>Zhang, D.</strong> and Dera, P.K. (2020), Structure and Behavior of the Ni End-Member Schreibersite Ni<sub>3</sub>P under Compression to 50 GPa. Minerals, 10(4), 306.</li>
 
@@ -356,14 +356,14 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 3<li>Berryman, E.J., <strong>Zhang, D.</strong>, Wunder, B., and Duffy, T.S. (2019), Compressibility of synthetic Mg-Al tourmalines to 60 GPa.
 	American Mineralogist, 104(7), 1005-1015.</li>
 
-1<li>Zhang, J. Ji, S., Ma, Y., Guan, R. Wu, X., Qu, X., Yan, B., <strong>Zhang, D.</strong>, Zhao, J., and Yang, J. (2019), 
+1<li>Zhang, J., Ji, S., Ma, Y., Guan, R., Wu, X., Qu, X., Yan, B., <strong>Zhang, D.</strong>, Zhao, J., and Yang, J. (2019), 
 	Tunable photoluminescence and an enhanced photoelectric response of Mn<sup>2+</sup>-doped CsPbCl<sub>3</sub> perovskite nanocrystals <i>via</i> 
 	pressure-induced structure evolution. Nanoscale, 11, 11660-11670.</li>
 
 3<li>Qin, F., Wu, X., Qin, S., <strong>Zhang, D.</strong>, Prakapenka, V.B., and Jacobsen, S.D. (2019), Pressure-induced dehydration of dioptase: 
 	A single-crystal X-ray diffraction and Raman spectroscopy study. Comptes Rendus Geoscience, 351, 121-128.</li>
 
-4<li>Zhu, S.-C., Liu, J.,Hu, Q., Mao, W.L., Meng, Y., <strong>Zhang, D.</strong>, Mao, H.-K., and Zhu, Q. (2019), Structure-Controlled Oxygen Concentration in 
+4<li>Zhu, S.-C., Liu, J., Hu, Q., Mao, W.L., Meng, Y., <strong>Zhang, D.</strong>, Mao, H.-K., and Zhu, Q. (2019), Structure-Controlled Oxygen Concentration in 
 	Fe<sub>2</sub>O<sub>3</sub> and FeO<sub>2</sub>. Inorganic Chemistry, 58, 5476-5482.</li>
 
 3<li>Liu, W., Chen, J., Zhang, X., Yan, J., Hou, M., Kunz, M., <strong>Zhang, D.</strong>, and Zhang, H. (2019), Pressure-Induced Phase Transitions of Natural Brookite. 
@@ -410,8 +410,8 @@ water into the lower mantle. Physics of the Earth and Planetary Interiors, 323, 
 	properties of spinel ZnFe<sub>2</sub>O<sub>4</sub> nanoparticles under high pressure. ACS applied 
 	materials & interfaces, 10, 42856-42864.</li>
 
-1<li>Tang, H., Wan, B., Gao, B., Muraba, Y., Qin, Q., Yan, B., Chen, P., Hu, Q., <strong>Zhang, D.</strong>, Wu, L. and 
-	Wang, M. (2018), Metal-to-Semiconductor Transition and Electronic Dimensionality Reduction 
+1<li>Tang, H., Wan, B., Gao, B., Muraba, Y., Qin, Q., Yan, B., Chen, P., Hu, Q., <strong>Zhang, D.</strong>, Wu, L., 
+	Wang, M., Xiao, H., Gou, H., Gao, F., Mao, H.-K. and Hosono, H. (2018), Metal-to-Semiconductor Transition and Electronic Dimensionality Reduction 
 	of Ca<sub>2</sub>N Electride under Pressure. Advanced Science, 5(11), 1800666.</li>
 
 1<li>Gong, J., Wei, P., Su, Y., Li, Y., Feng, X., Lam, J.W., <strong>Zhang, D.</strong>, Song, X. and Tang, B.Z. (2018), Red-emitting salicylaldehyde Schiff 

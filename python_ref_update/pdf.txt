@@ -9,7 +9,7 @@ Zhao_GRL_2026.pdf
 Ye_PCM_2026.pdf
 Chen_EPSL_2026.pdf
 Wang_PRB_2026.pdf
-Huyan_MatsTodayPhys_2026.pdf
+Huyan_MatTodayPhys_2026.pdf
 Zhou_RSI_2026.pdf
 Huyan_APLMats_2026.pdf
 Chen_PRL_2026.pdf
